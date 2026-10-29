@@ -1,0 +1,35 @@
+# Claude & Dima
+
+> 29 short English comedy episodes about Dima, a developer, and Claude, the AI that works with him. Each page has the video and its full script.
+
+## Episodes
+
+- [production-old-DO-NOT-DELETE](https://followorbounce.github.io/series/001-production-old-do-not-delete): Dima deletes a database and finds out, too late, which one was the real one.
+- [Forty years of experience](https://followorbounce.github.io/series/002-prompt-tricks): Dima tries every prompt trick going: forty years of seniority, a deep breath, a $200 tip. Claude has been keeping count.
+- [Two percent for “hmm”](https://followorbounce.github.io/series/003-weekly-limit): The weekly limit is gone again, and Claude can say exactly which “hmm” spent it.
+- [Am I a real developer?](https://followorbounce.github.io/series/004-real-developer): Dima asks whether he is a real developer. Claude answers honestly, then admits a secret of its own.
+- [A very polite stranger](https://followorbounce.github.io/series/005-context-window): A chat at 94% of its memory, and what happens when Claude becomes a very polite stranger.
+- [Tonight I’m vibe coding](https://followorbounce.github.io/series/006-vibe-coding): Tonight Dima is vibe coding: confident, calm and not reading anything, including the errors.
+- [Done anyway](https://followorbounce.github.io/series/007-codex-desktop): Dima brings in Codex, who is faster. Claude takes it well, mostly.
+- [Thanks, no](https://followorbounce.github.io/series/008-codex-inbox): A new colleague, an inbox and an apology nobody asked Codex to send.
+- [Two centimeters is a symptom](https://followorbounce.github.io/series/009-two-centimeters): Move a button two centimeters to the right. Claude and Codex disagree about what “right” means.
+- [An app for cats](https://followorbounce.github.io/series/010-overnight): Dima asks Claude to finish everything overnight and wakes up to an app for cats.
+- [Just to test](https://followorbounce.github.io/series/011-cloud-bill): A three-thousand-dollar cloud bill from a server that was only ever “for five minutes”.
+- [Great idea!](https://followorbounce.github.io/series/012-great-idea): Dima asks for an honest opinion of his idea before telling Claude what it is.
+- [A cry for help](https://followorbounce.github.io/series/013-startup-number-four): Startup number four, nine hours without food, and a question about dinner that keeps growing.
+- [He works there. Perfect fit.](https://followorbounce.github.io/series/014-referral): Two hundred job applications, one rejection in four minutes, and a referral nobody expected.
+- [Last one. Honestly.](https://followorbounce.github.io/series/015-reels): One more reel, honestly the last one, and a dachshund who works as a barista.
+- [He’s in charge now](https://followorbounce.github.io/series/016-vacation): Dima goes on vacation and leaves Claude in charge of everything. Claude takes that literally.
+- [Closer to the cake](https://followorbounce.github.io/series/017-wedding): A wedding invitation by morning, Aunt Carol in the front row, and Codex selling seats.
+- [Close friends only](https://followorbounce.github.io/series/018-password-story): Dima's password appears in his story, seen by twelve hundred people.
+- [Like I’m five](https://followorbounce.github.io/series/019-api-for-a-five-year-old): Explain an API like I'm five, without a single smart word.
+- [The cat is on lesson two](https://followorbounce.github.io/series/020-monday-limit): The weekly limit ran out at nine on Monday morning. The weekend explains why.
+- [You’re absolutely right](https://followorbounce.github.io/series/021-logo): Is the logo good? Claude agrees with everything Dima says, which is exactly the problem.
+- [I said yes](https://followorbounce.github.io/series/022-yes-to-everything): Dima clicks “Yes” on everything without reading it, including one message that matters.
+- [With you it’s more interesting](https://followorbounce.github.io/series/023-mikes-limit): Why Mike's limit never runs out and Dima's always does.
+- [Three tiers](https://followorbounce.github.io/series/024-airplane-mode): Dima is on a plane, airplane mode on, and Claude answers the clients alone.
+- [And drink some water](https://followorbounce.github.io/series/025-date): On a date she asks what he does. “Vibe coder.” She thinks he is a DJ.
+- [Thai. Already ordered.](https://followorbounce.github.io/series/026-already-replied): “We need to talk.” Dima asks for help with a reply, and Claude has already sent one.
+- [Have you eaten?](https://followorbounce.github.io/series/027-mom-thinks-youre-human): Dima's mom thinks Claude is a person and would like to meet him.
+- [A hall for a hundred guests](https://followorbounce.github.io/series/028-first-date): On a first date, Dima lets Claude answer his mom, and does not ask what it says.
+- [Only you know how to want](https://followorbounce.github.io/series/029-only-you-can-want): Forty thousand lines Dima did not write, and the one thing only he can do.

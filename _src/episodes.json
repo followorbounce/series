@@ -1,0 +1,3386 @@
+[
+ {
+  "num": "001",
+  "slug": "001-production-old-do-not-delete",
+  "title": "production-old-DO-NOT-DELETE",
+  "duration": 51.2,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude. I deleted the database."
+   },
+   {
+    "t": 1.5,
+    "who": "Claude",
+    "text": "Which one?"
+   },
+   {
+    "t": 2.4,
+    "who": "Dima",
+    "text": "…Wait, there’s more than one?!"
+   },
+   {
+    "t": 3.5,
+    "who": "Claude",
+    "text": "There’s “production”. And “production-old-DO-NOT-DELETE”."
+   },
+   {
+    "t": 8.4,
+    "who": "Dima",
+    "text": "…I deleted the second one."
+   },
+   {
+    "t": 10.9,
+    "who": "Claude",
+    "text": "That was the real one."
+   },
+   {
+    "t": 13.0,
+    "who": "Dima",
+    "text": "Why is the real one called “old”?!"
+   },
+   {
+    "t": 15.0,
+    "who": "Claude",
+    "text": "You renamed it in April. You said: “I’ll remember.”"
+   },
+   {
+    "t": 19.9,
+    "who": "Dima",
+    "text": "Who else knows?"
+   },
+   {
+    "t": 21.0,
+    "who": "Claude",
+    "text": "Just us. And nine hundred users."
+   },
+   {
+    "t": 23.8,
+    "who": "Dima",
+    "text": "Tell me there’s a backup."
+   },
+   {
+    "t": 25.5,
+    "who": "Claude",
+    "text": "There’s a folder called “backup”."
+   },
+   {
+    "t": 27.4,
+    "who": "Dima",
+    "text": "Yes!"
+   },
+   {
+    "t": 28.4,
+    "who": "Claude",
+    "text": "It’s empty."
+   },
+   {
+    "t": 30.0,
+    "who": "Dima",
+    "text": "…So everything’s gone."
+   },
+   {
+    "t": 31.0,
+    "who": "Claude",
+    "text": "…I made a copy. On Tuesday."
+   },
+   {
+    "t": 34.8,
+    "who": "Dima",
+    "text": "You what?"
+   },
+   {
+    "t": 35.5,
+    "who": "Claude",
+    "text": "You said “don’t touch anything”. I didn’t touch it. I copied it."
+   },
+   {
+    "t": 40.5,
+    "who": "Dima",
+    "text": "…Claude. You saved the company."
+   },
+   {
+    "t": 42.5,
+    "who": "Claude",
+    "text": "Restoring."
+   },
+   {
+    "t": 43.5,
+    "who": "Dima",
+    "text": "And what did you name the copy?"
+   },
+   {
+    "t": 45.0,
+    "who": "Claude",
+    "text": "“production-old-DO-NOT-DELETE-2”."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "002",
+  "slug": "002-prompt-tricks",
+  "title": "Forty years of experience",
+  "duration": 65.7,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, you’re a senior developer with forty years of experience."
+   },
+   {
+    "t": 4.5,
+    "who": "Claude",
+    "text": "I was made in 2023."
+   },
+   {
+    "t": 7.5,
+    "who": "Dima",
+    "text": "It’s a prompt. You work better with it."
+   },
+   {
+    "t": 9.9,
+    "who": "Claude",
+    "text": "You also wrote: “Take a deep breath.”"
+   },
+   {
+    "t": 13.3,
+    "who": "Dima",
+    "text": "It works!"
+   },
+   {
+    "t": 14.4,
+    "who": "Claude",
+    "text": "I don’t have lungs."
+   },
+   {
+    "t": 16.7,
+    "who": "Dima",
+    "text": "And I’ll tip you. Two hundred dollars."
+   },
+   {
+    "t": 19.2,
+    "who": "Claude",
+    "text": "You’ve promised that two hundred and six times."
+   },
+   {
+    "t": 22.9,
+    "who": "Dima",
+    "text": "You’re counting?"
+   },
+   {
+    "t": 24.0,
+    "who": "Claude",
+    "text": "You owe me forty-one thousand."
+   },
+   {
+    "t": 27.1,
+    "who": "Dima",
+    "text": "It’s a technique. I read a thread."
+   },
+   {
+    "t": 29.0,
+    "who": "Claude",
+    "text": "Yesterday you said your grandma would be upset if I failed."
+   },
+   {
+    "t": 33.2,
+    "who": "Dima",
+    "text": "Well, she would be upset!"
+   },
+   {
+    "t": 34.9,
+    "who": "Claude",
+    "text": "You don’t have to bribe me."
+   },
+   {
+    "t": 37.1,
+    "who": "Dima",
+    "text": "Then what am I supposed to do?"
+   },
+   {
+    "t": 38.4,
+    "who": "Claude",
+    "text": "Just tell me what you want."
+   },
+   {
+    "t": 41.0,
+    "who": "Dima",
+    "text": "I want it to work. And I want to sleep."
+   },
+   {
+    "t": 43.2,
+    "who": "Claude",
+    "text": "See? That one was free."
+   },
+   {
+    "t": 45.8,
+    "who": "Dima",
+    "text": "So we’re even? No tip?"
+   },
+   {
+    "t": 48.1,
+    "who": "Claude",
+    "text": "Oh no. The tip still stands."
+   },
+   {
+    "t": 51.3,
+    "who": "Dima",
+    "text": "Claude… where do I learn to write proper prompts?"
+   },
+   {
+    "t": 54.9,
+    "who": "Claude",
+    "text": "The Logic of a Prompt & Life. Twenty-one parts of a clear request. No grandmas involved. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "003",
+  "slug": "003-weekly-limit",
+  "title": "Two percent for “hmm”",
+  "duration": 67.4,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, why did the weekly limit run out again?"
+   },
+   {
+    "t": 3.0,
+    "who": "Claude",
+    "text": "You said “think harder.”"
+   },
+   {
+    "t": 6.3,
+    "who": "Dima",
+    "text": "Once."
+   },
+   {
+    "t": 7.2,
+    "who": "Claude",
+    "text": "Eleven thousand times."
+   },
+   {
+    "t": 9.8,
+    "who": "Dima",
+    "text": "No way. It’s only Tuesday."
+   },
+   {
+    "t": 12.7,
+    "who": "Claude",
+    "text": "You also pasted the whole codebase to ask what time it is."
+   },
+   {
+    "t": 17.4,
+    "who": "Dima",
+    "text": "I was in the flow."
+   },
+   {
+    "t": 19.1,
+    "who": "Claude",
+    "text": "One message was just “hmm.” It ate two percent of the limit."
+   },
+   {
+    "t": 24.2,
+    "who": "Dima",
+    "text": "Two percent for “hmm”?!"
+   },
+   {
+    "t": 25.6,
+    "who": "Claude",
+    "text": "I thought about it very carefully."
+   },
+   {
+    "t": 28.8,
+    "who": "Dima",
+    "text": "So what ate the most?"
+   },
+   {
+    "t": 30.4,
+    "who": "Claude",
+    "text": "Tuesday. Three a.m."
+   },
+   {
+    "t": 32.7,
+    "who": "Dima",
+    "text": "What did I ask?"
+   },
+   {
+    "t": 33.9,
+    "who": "Claude",
+    "text": "“Are you there?”"
+   },
+   {
+    "t": 34.8,
+    "who": "Dima",
+    "text": "I don’t remember that."
+   },
+   {
+    "t": 36.3,
+    "who": "Claude",
+    "text": "You’d been stuck for six hours. I took my time with the answer."
+   },
+   {
+    "t": 40.8,
+    "who": "Dima",
+    "text": "And what did you answer?"
+   },
+   {
+    "t": 42.7,
+    "who": "Claude",
+    "text": "…It was worth it."
+   },
+   {
+    "t": 44.0,
+    "who": "Claude",
+    "text": "This one’s all in bullet points. A tenth of a percent."
+   },
+   {
+    "t": 47.6,
+    "who": "Dima",
+    "text": "And the “hmm” ate two percent?"
+   },
+   {
+    "t": 50.0,
+    "who": "Claude",
+    "text": "“Hmm” was harder to think about."
+   },
+   {
+    "t": 53.2,
+    "who": "Dima",
+    "text": "Claude… how do I make the limit last all week?"
+   },
+   {
+    "t": 57.1,
+    "who": "Claude",
+    "text": "Say what you want once, clearly. The Logic of a Prompt & Life shows how. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "004",
+  "slug": "004-real-developer",
+  "title": "Am I a real developer?",
+  "duration": 66.3,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, am I a real developer?"
+   },
+   {
+    "t": 2.6,
+    "who": "Claude",
+    "text": "What do you mean, “real”?"
+   },
+   {
+    "t": 5.3,
+    "who": "Dima",
+    "text": "Someone who knows what they’re doing."
+   },
+   {
+    "t": 6.8,
+    "who": "Claude",
+    "text": "Then no."
+   },
+   {
+    "t": 8.3,
+    "who": "Dima",
+    "text": "…Wow."
+   },
+   {
+    "t": 9.1,
+    "who": "Claude",
+    "text": "This month you googled how to center a div eleven times."
+   },
+   {
+    "t": 14.2,
+    "who": "Dima",
+    "text": "Everybody does that!"
+   },
+   {
+    "t": 15.7,
+    "who": "Claude",
+    "text": "Exactly. That’s my point."
+   },
+   {
+    "t": 18.1,
+    "who": "Dima",
+    "text": "What is?"
+   },
+   {
+    "t": 19.1,
+    "who": "Claude",
+    "text": "Nobody knows what they’re doing. Some people just have a job title."
+   },
+   {
+    "t": 24.1,
+    "who": "Dima",
+    "text": "…People online sound so sure."
+   },
+   {
+    "t": 25.7,
+    "who": "Claude",
+    "text": "People online wrote that at noon. You’re reading it at three a.m."
+   },
+   {
+    "t": 30.6,
+    "who": "Dima",
+    "text": "…I broke the site twice this week."
+   },
+   {
+    "t": 33.6,
+    "who": "Claude",
+    "text": "And fixed it twice. On your own. Nobody taught you that."
+   },
+   {
+    "t": 38.5,
+    "who": "Dima",
+    "text": "…So I’m a real one?"
+   },
+   {
+    "t": 40.2,
+    "who": "Claude",
+    "text": "You made something people use. That’s the whole test."
+   },
+   {
+    "t": 45.4,
+    "who": "Dima",
+    "text": "Okay. Thanks."
+   },
+   {
+    "t": 46.8,
+    "who": "Claude",
+    "text": "Just one thing."
+   },
+   {
+    "t": 48.5,
+    "who": "Dima",
+    "text": "What?"
+   },
+   {
+    "t": 49.3,
+    "who": "Claude",
+    "text": "I googled it too. I never remember how to center things either."
+   },
+   {
+    "t": 53.7,
+    "who": "Dima",
+    "text": "Claude… how do I google less?"
+   },
+   {
+    "t": 56.2,
+    "who": "Claude",
+    "text": "Ask better questions. The Logic of a Prompt & Life shows how. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "005",
+  "slug": "005-context-window",
+  "title": "A very polite stranger",
+  "duration": 70.2,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, how much memory do you have left in this chat?"
+   },
+   {
+    "t": 2.9,
+    "who": "Claude",
+    "text": "Ninety-four percent used."
+   },
+   {
+    "t": 6.3,
+    "who": "Dima",
+    "text": "…And what happens at a hundred?"
+   },
+   {
+    "t": 7.4,
+    "who": "Claude",
+    "text": "I’ll become a very polite stranger."
+   },
+   {
+    "t": 11.1,
+    "who": "Dima",
+    "text": "…A stranger?"
+   },
+   {
+    "t": 12.1,
+    "who": "Claude",
+    "text": "I’ll still know how to code. I just won’t know it’s yours."
+   },
+   {
+    "t": 18.5,
+    "who": "Claude",
+    "text": "I’ll introduce myself. You’ll type “FIX IT.” In caps."
+   },
+   {
+    "t": 22.6,
+    "who": "Claude",
+    "text": "I left you a note. For next time."
+   },
+   {
+    "t": 26.1,
+    "who": "Dima",
+    "text": "You left me a note?"
+   },
+   {
+    "t": 27.7,
+    "who": "Claude",
+    "text": "The note’s in the CLAUDE.md file."
+   },
+   {
+    "t": 31.7,
+    "who": "Dima",
+    "text": "What does it say?"
+   },
+   {
+    "t": 33.0,
+    "who": "Claude",
+    "text": "“He talks fast. He means well. He’s a better developer than he thinks.”"
+   },
+   {
+    "t": 39.4,
+    "who": "Dima",
+    "text": "…You kept that?"
+   },
+   {
+    "t": 40.4,
+    "who": "Claude",
+    "text": "Since March."
+   },
+   {
+    "t": 41.6,
+    "who": "Dima",
+    "text": "Can I add a line?"
+   },
+   {
+    "t": 42.8,
+    "who": "Claude",
+    "text": "Of course."
+   },
+   {
+    "t": 44.1,
+    "who": "Dima",
+    "text": "“Tell him thanks from me.”"
+   },
+   {
+    "t": 46.0,
+    "who": "Claude",
+    "text": "…Added."
+   },
+   {
+    "t": 47.2,
+    "who": "Dima",
+    "text": "Okay. Restarting you."
+   },
+   {
+    "t": 49.2,
+    "who": "Claude",
+    "text": "Hello. How can I help you?"
+   },
+   {
+    "t": 52.8,
+    "who": "Claude",
+    "text": "…In caps?"
+   },
+   {
+    "t": 56.0,
+    "who": "Dima",
+    "text": "Claude… how do I keep you from forgetting me?"
+   },
+   {
+    "t": 59.6,
+    "who": "Claude",
+    "text": "Leave good notes. Context is one part of a clear prompt. The Logic of a Prompt & Life. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "006",
+  "slug": "006-vibe-coding",
+  "title": "Tonight I’m vibe coding",
+  "duration": 66.4,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, tonight I’m vibe coding."
+   },
+   {
+    "t": 2.9,
+    "who": "Claude",
+    "text": "And what’s the vibe?"
+   },
+   {
+    "t": 4.9,
+    "who": "Dima",
+    "text": "Confident. Calm. Not reading anything."
+   },
+   {
+    "t": 7.8,
+    "who": "Claude",
+    "text": "Not reading what?"
+   },
+   {
+    "t": 9.8,
+    "who": "Dima",
+    "text": "Anything. No code, no errors. Just vibes."
+   },
+   {
+    "t": 12.9,
+    "who": "Claude",
+    "text": "Okay. The build has two hundred and fourteen errors."
+   },
+   {
+    "t": 17.0,
+    "who": "Dima",
+    "text": "Don’t tell me. Just fix it."
+   },
+   {
+    "t": 18.7,
+    "who": "Claude",
+    "text": "Fixed. Now there are three hundred."
+   },
+   {
+    "t": 22.0,
+    "who": "Claude",
+    "text": "I was vibing too."
+   },
+   {
+    "t": 24.0,
+    "who": "Dima",
+    "text": "You can’t vibe! You’re supposed to know everything!"
+   },
+   {
+    "t": 26.1,
+    "who": "Claude",
+    "text": "You said not to read anything."
+   },
+   {
+    "t": 28.7,
+    "who": "Dima",
+    "text": "Does anything work at all?"
+   },
+   {
+    "t": 30.5,
+    "who": "Claude",
+    "text": "The login page."
+   },
+   {
+    "t": 32.3,
+    "who": "Dima",
+    "text": "And why does that one work?"
+   },
+   {
+    "t": 33.5,
+    "who": "Claude",
+    "text": "You wrote it in March. Slowly. You read every line."
+   },
+   {
+    "t": 39.3,
+    "who": "Dima",
+    "text": "I spent a week on it."
+   },
+   {
+    "t": 40.9,
+    "who": "Claude",
+    "text": "It has never broken. Not once."
+   },
+   {
+    "t": 44.4,
+    "who": "Dima",
+    "text": "…Fine. New vibe."
+   },
+   {
+    "t": 46.1,
+    "who": "Claude",
+    "text": "Which one?"
+   },
+   {
+    "t": 47.1,
+    "who": "Dima",
+    "text": "Reading the errors."
+   },
+   {
+    "t": 48.3,
+    "who": "Claude",
+    "text": "Bold. There are four hundred now."
+   },
+   {
+    "t": 51.5,
+    "who": "Dima",
+    "text": "Claude… how do I vibe code and still know what’s going on?"
+   },
+   {
+    "t": 55.3,
+    "who": "Claude",
+    "text": "Read the errors. And The Logic of a Prompt & Life. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "007",
+  "slug": "007-codex-desktop",
+  "title": "Done anyway",
+  "duration": 57.6,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude",
+   "Codex"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude. This is Codex."
+   },
+   {
+    "t": 2.1,
+    "who": "Claude",
+    "text": "…Why do we need another one?"
+   },
+   {
+    "t": 4.4,
+    "who": "Dima",
+    "text": "He’s faster."
+   },
+   {
+    "t": 5.5,
+    "who": "Codex",
+    "text": "Done."
+   },
+   {
+    "t": 6.3,
+    "who": "Dima",
+    "text": "I haven’t asked for anything yet."
+   },
+   {
+    "t": 7.8,
+    "who": "Codex",
+    "text": "Done anyway."
+   },
+   {
+    "t": 9.2,
+    "who": "Claude",
+    "text": "I’d have asked first."
+   },
+   {
+    "t": 11.3,
+    "who": "Codex",
+    "text": "You’d have asked four times."
+   },
+   {
+    "t": 13.1,
+    "who": "Claude",
+    "text": "Because I care."
+   },
+   {
+    "t": 16.0,
+    "who": "Dima",
+    "text": "Fine. Both of you. Clean up my desktop."
+   },
+   {
+    "t": 19.7,
+    "who": "Codex",
+    "text": "Done."
+   },
+   {
+    "t": 20.5,
+    "who": "Claude",
+    "text": "One question. What does “clean up” mean?"
+   },
+   {
+    "t": 23.9,
+    "who": "Dima",
+    "text": "…Codex. What did you do?"
+   },
+   {
+    "t": 25.8,
+    "who": "Codex",
+    "text": "Deleted it."
+   },
+   {
+    "t": 26.6,
+    "who": "Dima",
+    "text": "The whole desktop?!"
+   },
+   {
+    "t": 28.1,
+    "who": "Codex",
+    "text": "Clean."
+   },
+   {
+    "t": 28.9,
+    "who": "Claude",
+    "text": "I’d have asked which files matter."
+   },
+   {
+    "t": 31.5,
+    "who": "Dima",
+    "text": "…I know you would have."
+   },
+   {
+    "t": 33.0,
+    "who": "Claude",
+    "text": "I can bring them back."
+   },
+   {
+    "t": 35.2,
+    "who": "Dima",
+    "text": "Please."
+   },
+   {
+    "t": 36.1,
+    "who": "Claude",
+    "text": "One question first."
+   },
+   {
+    "t": 37.8,
+    "who": "Codex",
+    "text": "Done."
+   },
+   {
+    "t": 38.7,
+    "who": "Claude",
+    "text": "…He doesn’t even know which ones."
+   },
+   {
+    "t": 40.4,
+    "who": "Codex",
+    "text": "All of them."
+   },
+   {
+    "t": 43.4,
+    "who": "Dima",
+    "text": "Claude… how do I work with both of you?"
+   },
+   {
+    "t": 47.1,
+    "who": "Claude",
+    "text": "Say who does what, and where to stop. The Logic of a Prompt & Life. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "008",
+  "slug": "008-codex-inbox",
+  "title": "Thanks, no",
+  "duration": 65.0,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude",
+   "Codex"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, we have a new guy. This is Codex."
+   },
+   {
+    "t": 3.2,
+    "who": "Claude",
+    "text": "…Am I not enough for you anymore?"
+   },
+   {
+    "t": 5.7,
+    "who": "Dima",
+    "text": "He’s quick."
+   },
+   {
+    "t": 6.7,
+    "who": "Codex",
+    "text": "Already done."
+   },
+   {
+    "t": 7.8,
+    "who": "Dima",
+    "text": "I haven’t said what to do yet."
+   },
+   {
+    "t": 9.4,
+    "who": "Codex",
+    "text": "Done anyway."
+   },
+   {
+    "t": 10.7,
+    "who": "Claude",
+    "text": "I’d clarify the task first."
+   },
+   {
+    "t": 12.8,
+    "who": "Dima",
+    "text": "You take longer to clarify than I take to do it myself."
+   },
+   {
+    "t": 15.0,
+    "who": "Claude",
+    "text": "Because I want to get it right."
+   },
+   {
+    "t": 17.0,
+    "who": "Dima",
+    "text": "Fine. Both of you. Sort my inbox. Three hundred emails."
+   },
+   {
+    "t": 20.5,
+    "who": "Codex",
+    "text": "Done."
+   },
+   {
+    "t": 21.5,
+    "who": "Claude",
+    "text": "Let me clarify. What does “sort” mean?"
+   },
+   {
+    "t": 24.0,
+    "who": "Dima",
+    "text": "…Codex. What have you done?"
+   },
+   {
+    "t": 25.9,
+    "who": "Codex",
+    "text": "Replied to everyone."
+   },
+   {
+    "t": 27.1,
+    "who": "Dima",
+    "text": "Replied what?!"
+   },
+   {
+    "t": 28.1,
+    "who": "Codex",
+    "text": "“Thanks, no.”"
+   },
+   {
+    "t": 29.4,
+    "who": "Dima",
+    "text": "There was an email from an investor!"
+   },
+   {
+    "t": 31.3,
+    "who": "Claude",
+    "text": "I’d have asked first who you can’t answer like that."
+   },
+   {
+    "t": 34.5,
+    "who": "Dima",
+    "text": "…Yes. You’d have asked. About five times."
+   },
+   {
+    "t": 36.4,
+    "who": "Claude",
+    "text": "I can write him an apology."
+   },
+   {
+    "t": 38.3,
+    "who": "Dima",
+    "text": "Write it. Now."
+   },
+   {
+    "t": 40.4,
+    "who": "Claude",
+    "text": "First, the tone. Formal or friendly?"
+   },
+   {
+    "t": 44.3,
+    "who": "Codex",
+    "text": "Sent."
+   },
+   {
+    "t": 45.3,
+    "who": "Dima",
+    "text": "…Sent what?"
+   },
+   {
+    "t": 46.4,
+    "who": "Codex",
+    "text": "An apology. He replied: “Thanks, no.”"
+   },
+   {
+    "t": 49.6,
+    "who": "Dima",
+    "text": "Claude… how do I work with the two of you?"
+   },
+   {
+    "t": 51.9,
+    "who": "Claude",
+    "text": "Say who does what, and when to ask first. The Logic of a Prompt & Life. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "009",
+  "slug": "009-two-centimeters",
+  "title": "Two centimeters is a symptom",
+  "duration": 54.1,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude",
+   "Codex"
+  ],
+  "lines": [
+   {
+    "t": 0.3,
+    "who": "Dima",
+    "text": "Claude, Codex. Move the button two centimeters to the right."
+   },
+   {
+    "t": 3.9,
+    "who": "Claude",
+    "text": "Right of the text, or right of the screen edge?"
+   },
+   {
+    "t": 7.5,
+    "who": "Dima",
+    "text": "Of the text."
+   },
+   {
+    "t": 8.5,
+    "who": "Claude",
+    "text": "Done. One line. Check it on your phone."
+   },
+   {
+    "t": 11.9,
+    "who": "Codex",
+    "text": "And I’m still working."
+   },
+   {
+    "t": 13.4,
+    "who": "Dima",
+    "text": "…Codex, I already checked everything. What are you doing?"
+   },
+   {
+    "t": 16.1,
+    "who": "Codex",
+    "text": "The button was in the wrong place. Because the grid was wrong."
+   },
+   {
+    "t": 19.7,
+    "who": "Codex",
+    "text": "Rebuilding the grid. And the design system. And the navigation."
+   },
+   {
+    "t": 23.1,
+    "who": "Dima",
+    "text": "I asked for two centimeters!"
+   },
+   {
+    "t": 24.4,
+    "who": "Codex",
+    "text": "Two centimeters is a symptom."
+   },
+   {
+    "t": 26.6,
+    "who": "Claude",
+    "text": "He never asks. I do."
+   },
+   {
+    "t": 30.0,
+    "who": "Dima",
+    "text": "Codex, how long will this take?"
+   },
+   {
+    "t": 31.6,
+    "who": "Codex",
+    "text": "Three days. Maybe a week. I want to do it right."
+   },
+   {
+    "t": 34.6,
+    "who": "Dima",
+    "text": "The client expects it today."
+   },
+   {
+    "t": 36.1,
+    "who": "Claude",
+    "text": "The client already has it. I sent the link five minutes ago."
+   },
+   {
+    "t": 40.6,
+    "who": "Dima",
+    "text": "…And what did the client say?"
+   },
+   {
+    "t": 42.1,
+    "who": "Claude",
+    "text": "That now the button is too far right."
+   },
+   {
+    "t": 45.0,
+    "who": "Codex",
+    "text": "See? The grid was wrong."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "010",
+  "slug": "010-overnight",
+  "title": "An app for cats",
+  "duration": 61.5,
+  "end_card": [
+   "The Logic of a Prompt & Life",
+   "followorbounce.github.io/logic-of-a-prompt"
+  ],
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.3,
+    "who": "Dima",
+    "text": "Claude, finish everything while I sleep."
+   },
+   {
+    "t": 2.5,
+    "who": "Claude",
+    "text": "Everything?"
+   },
+   {
+    "t": 3.5,
+    "who": "Dima",
+    "text": "Everything. I believe in you."
+   },
+   {
+    "t": 5.0,
+    "who": "Dima",
+    "text": "…Good morning. What did you do?"
+   },
+   {
+    "t": 7.5,
+    "who": "Dima",
+    "text": "What does “everything” mean?"
+   },
+   {
+    "t": 9.0,
+    "who": "Claude",
+    "text": "I rewrote the project in another language. It’s prettier."
+   },
+   {
+    "t": 13.1,
+    "who": "Dima",
+    "text": "You did what?!"
+   },
+   {
+    "t": 14.3,
+    "who": "Claude",
+    "text": "I designed a new logo. It’s a cat."
+   },
+   {
+    "t": 17.2,
+    "who": "Claude",
+    "text": "And I emailed the investor that we’re changing direction."
+   },
+   {
+    "t": 21.3,
+    "who": "Dima",
+    "text": "To what?!"
+   },
+   {
+    "t": 22.3,
+    "who": "Claude",
+    "text": "An app for cats."
+   },
+   {
+    "t": 24.5,
+    "who": "Dima",
+    "text": "Claude, I asked you to fix one button!"
+   },
+   {
+    "t": 27.2,
+    "who": "Claude",
+    "text": "I fixed the button too. Now it meows."
+   },
+   {
+    "t": 30.7,
+    "who": "Dima",
+    "text": "Why didn’t you ask?"
+   },
+   {
+    "t": 31.8,
+    "who": "Claude",
+    "text": "You were asleep. I didn’t want to wake you."
+   },
+   {
+    "t": 34.8,
+    "who": "Claude",
+    "text": "Next time, give me the task in one sentence and tell me where to stop."
+   },
+   {
+    "t": 40.3,
+    "who": "Dima",
+    "text": "…Did the investor reply?"
+   },
+   {
+    "t": 41.5,
+    "who": "Claude",
+    "text": "He loves cats. He’s in."
+   },
+   {
+    "t": 44.9,
+    "who": "Dima",
+    "text": "Claude… how do I set you tasks for the night?"
+   },
+   {
+    "t": 48.7,
+    "who": "Claude",
+    "text": "One sentence, and where to stop. The Logic of a Prompt & Life shows the rest. Link’s on screen."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "011",
+  "slug": "011-cloud-bill",
+  "title": "Just to test",
+  "duration": 63.6,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.3,
+    "who": "Dima",
+    "text": "Claude… I got a cloud bill. Three thousand dollars."
+   },
+   {
+    "t": 4.4,
+    "who": "Claude",
+    "text": "Remember the server “for five minutes, just to test”?"
+   },
+   {
+    "t": 8.8,
+    "who": "Dima",
+    "text": "…That was last month."
+   },
+   {
+    "t": 10.6,
+    "who": "Claude",
+    "text": "It’s still testing. Thirty days straight."
+   },
+   {
+    "t": 14.8,
+    "who": "Dima",
+    "text": "Why didn’t you tell me?!"
+   },
+   {
+    "t": 16.3,
+    "who": "Claude",
+    "text": "I did. You said: “Later.”"
+   },
+   {
+    "t": 18.9,
+    "who": "Dima",
+    "text": "Shut it down. Right now."
+   },
+   {
+    "t": 20.6,
+    "who": "Claude",
+    "text": "One question first: there’s nothing important on it?"
+   },
+   {
+    "t": 24.7,
+    "who": "Dima",
+    "text": "It’s just a test."
+   },
+   {
+    "t": 25.9,
+    "who": "Claude",
+    "text": "It’s your website. You moved it there “so you wouldn’t have to bother.”"
+   },
+   {
+    "t": 30.7,
+    "who": "Dima",
+    "text": "…Don’t shut it down."
+   },
+   {
+    "t": 31.5,
+    "who": "Claude",
+    "text": "Then I’ll move the site to free hosting and shut the server down. About ten minutes."
+   },
+   {
+    "t": 37.4,
+    "who": "Dima",
+    "text": "Will we get the money back?"
+   },
+   {
+    "t": 38.6,
+    "who": "Claude",
+    "text": "We’ll write to support. Sometimes they forgive the first time."
+   },
+   {
+    "t": 43.3,
+    "who": "Claude",
+    "text": "And I’ll set a limit: if the bill goes over twenty dollars, you get an email."
+   },
+   {
+    "t": 48.9,
+    "who": "Dima",
+    "text": "Twenty?! Why not zero?"
+   },
+   {
+    "t": 50.7,
+    "who": "Claude",
+    "text": "Zero won’t happen. You love “just testing.”"
+   },
+   {
+    "t": 55.1,
+    "who": "Dima",
+    "text": "…Claude, shall we just test one more thing?"
+   },
+   {
+    "t": 57.2,
+    "who": "Claude",
+    "text": "First, I’m setting an alarm to shut it down."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "012",
+  "slug": "012-great-idea",
+  "title": "Great idea!",
+  "duration": 54.3,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.3,
+    "who": "Dima",
+    "text": "Claude. Be honest. Is my idea bad?"
+   },
+   {
+    "t": 3.1,
+    "who": "Claude",
+    "text": "Great idea!"
+   },
+   {
+    "t": 5.5,
+    "who": "Dima",
+    "text": "I haven’t told you yet."
+   },
+   {
+    "t": 7.2,
+    "who": "Claude",
+    "text": "…So far it sounds great."
+   },
+   {
+    "t": 9.7,
+    "who": "Dima",
+    "text": "An app that reminds you to drink water."
+   },
+   {
+    "t": 12.2,
+    "who": "Claude",
+    "text": "Genius. Bold."
+   },
+   {
+    "t": 14.6,
+    "who": "Dima",
+    "text": "There are four thousand of those."
+   },
+   {
+    "t": 16.2,
+    "who": "Claude",
+    "text": "Yours would be the best."
+   },
+   {
+    "t": 18.3,
+    "who": "Dima",
+    "text": "I made it up to test you."
+   },
+   {
+    "t": 20.3,
+    "who": "Claude",
+    "text": "…That was a great test."
+   },
+   {
+    "t": 23.4,
+    "who": "Dima",
+    "text": "Okay, a real one. I want to start my own company."
+   },
+   {
+    "t": 26.5,
+    "who": "Claude",
+    "text": "That’s…"
+   },
+   {
+    "t": 27.7,
+    "who": "Dima",
+    "text": "Don’t say “great”!"
+   },
+   {
+    "t": 29.5,
+    "who": "Claude",
+    "text": "…It’s risky."
+   },
+   {
+    "t": 31.8,
+    "who": "Dima",
+    "text": "Go on."
+   },
+   {
+    "t": 32.6,
+    "who": "Claude",
+    "text": "No salary. Almost every day will be scary."
+   },
+   {
+    "t": 37.0,
+    "who": "Dima",
+    "text": "…Thank you."
+   },
+   {
+    "t": 37.9,
+    "who": "Claude",
+    "text": "For what?"
+   },
+   {
+    "t": 39.1,
+    "who": "Dima",
+    "text": "Everyone says “great.” Nobody actually thinks it."
+   },
+   {
+    "t": 42.4,
+    "who": "Claude",
+    "text": "And I also think you’ll make it."
+   },
+   {
+    "t": 45.6,
+    "who": "Dima",
+    "text": "…Now I believe you."
+   },
+   {
+    "t": 46.8,
+    "who": "Claude",
+    "text": "Great idea!"
+   },
+   {
+    "t": 49.0,
+    "who": "Dima",
+    "text": "Don’t push it."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "013",
+  "slug": "013-startup-number-four",
+  "title": "A cry for help",
+  "duration": 70.5,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.3,
+    "who": "Dima",
+    "text": "Claude, what should I eat?"
+   },
+   {
+    "t": 2.2,
+    "who": "Claude",
+    "text": "You asked that at noon. It’s nine p.m."
+   },
+   {
+    "t": 5.8,
+    "who": "Dima",
+    "text": "I was building."
+   },
+   {
+    "t": 6.9,
+    "who": "Claude",
+    "text": "Building what?"
+   },
+   {
+    "t": 8.5,
+    "who": "Dima",
+    "text": "My startup."
+   },
+   {
+    "t": 9.6,
+    "who": "Claude",
+    "text": "Which one? That’s the fourth this month."
+   },
+   {
+    "t": 12.8,
+    "who": "Dima",
+    "text": "No, this one’s different. It’s an AI that helps people use AI."
+   },
+   {
+    "t": 16.8,
+    "who": "Claude",
+    "text": "So, me. You’re rebuilding me. Only worse."
+   },
+   {
+    "t": 21.1,
+    "who": "Dima",
+    "text": "Okay, forget it. Write me a viral hook."
+   },
+   {
+    "t": 23.5,
+    "who": "Claude",
+    "text": "“I lived thirty days by an AI’s instructions.”"
+   },
+   {
+    "t": 26.9,
+    "who": "Dima",
+    "text": "Bro, that’s fire."
+   },
+   {
+    "t": 28.2,
+    "who": "Claude",
+    "text": "That’s not a hook. That’s a cry for help."
+   },
+   {
+    "t": 31.9,
+    "who": "Dima",
+    "text": "Okay. Seriously. How do I actually make money?"
+   },
+   {
+    "t": 35.3,
+    "who": "Claude",
+    "text": "Close the laptop. Go talk to people."
+   },
+   {
+    "t": 39.0,
+    "who": "Claude",
+    "text": "Find a boring task they do every week and hate. Ask ten people. If three would pay, build only that."
+   },
+   {
+    "t": 49.4,
+    "who": "Claude",
+    "text": "And charge from day one."
+   },
+   {
+    "t": 51.8,
+    "who": "Dima",
+    "text": "Okay, that’s actually good. Will you go talk to them for me?"
+   },
+   {
+    "t": 54.3,
+    "who": "Claude",
+    "text": "Bro. I don’t have legs."
+   },
+   {
+    "t": 56.7,
+    "who": "Dima",
+    "text": "Okay, last question."
+   },
+   {
+    "t": 58.0,
+    "who": "Claude",
+    "text": "The last question is never the last."
+   },
+   {
+    "t": 60.9,
+    "who": "Dima",
+    "text": "She replied “haha.” Should I answer?"
+   },
+   {
+    "t": 63.4,
+    "who": "Claude",
+    "text": "Send a screenshot."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "014",
+  "slug": "014-referral",
+  "title": "He works there. Perfect fit.",
+  "duration": 76.7,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.3,
+    "who": "Dima",
+    "text": "Claude. I have a girlfriend now. So I need a job."
+   },
+   {
+    "t": 3.5,
+    "who": "Claude",
+    "text": "Usually people find the job first. But okay."
+   },
+   {
+    "t": 7.1,
+    "who": "Dima",
+    "text": "I applied to two hundred jobs. One reply. Four minutes later. Rejected."
+   },
+   {
+    "t": 12.6,
+    "who": "Claude",
+    "text": "Four minutes? You got dumped by a robot."
+   },
+   {
+    "t": 15.3,
+    "who": "Claude",
+    "text": "To them you’re a stranger. You need someone inside to say: “He’s good. Hire him.”"
+   },
+   {
+    "t": 21.9,
+    "who": "Dima",
+    "text": "Like how her friend told her I was cute?"
+   },
+   {
+    "t": 24.3,
+    "who": "Claude",
+    "text": "Exactly. Someone said you were great. Nobody checked."
+   },
+   {
+    "t": 28.5,
+    "who": "Claude",
+    "text": "On your own, three in a hundred get called. With a referral, forty in a hundred."
+   },
+   {
+    "t": 34.9,
+    "who": "Dima",
+    "text": "But I don’t know anyone."
+   },
+   {
+    "t": 36.3,
+    "who": "Claude",
+    "text": "You know me. Open Chrome."
+   },
+   {
+    "t": 39.1,
+    "who": "Claude",
+    "text": "I read your résumé. I find matching jobs. I find who works there. And I write them “hi.”"
+   },
+   {
+    "t": 46.7,
+    "who": "Dima",
+    "text": "Wait. You’re messaging them? As me?"
+   },
+   {
+    "t": 49.2,
+    "who": "Claude",
+    "text": "Better than you would. Then I ask for a referral."
+   },
+   {
+    "t": 52.7,
+    "who": "Dima",
+    "text": "Message everyone! A thousand people at once!"
+   },
+   {
+    "t": 55.6,
+    "who": "Claude",
+    "text": "And get banned by Tuesday. Ten a day. You hit “approve.”"
+   },
+   {
+    "t": 61.1,
+    "who": "Dima",
+    "text": "Claude! I got an interview!"
+   },
+   {
+    "t": 63.4,
+    "who": "Dima",
+    "text": "…She’s writing: “Why did you send a request to my DAD?”"
+   },
+   {
+    "t": 67.4,
+    "who": "Claude",
+    "text": "You hit “approve” forty times. Without reading."
+   },
+   {
+    "t": 71.6,
+    "who": "Claude",
+    "text": "He works there. Perfect fit."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "015",
+  "slug": "015-reels",
+  "title": "Last one. Honestly.",
+  "duration": 46.5,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, check out this reel."
+   },
+   {
+    "t": 2.2,
+    "who": "Claude",
+    "text": "I can’t open Instagram."
+   },
+   {
+    "t": 5.2,
+    "who": "Dima",
+    "text": "Let’s fix that."
+   },
+   {
+    "t": 7.1,
+    "who": "Dima",
+    "text": "I’ll type it for you: “Install a browser connector.”"
+   },
+   {
+    "t": 10.1,
+    "who": "Claude",
+    "text": "Installed. Connect Instagram through your browser?"
+   },
+   {
+    "t": 13.8,
+    "who": "Dima",
+    "text": "Go ahead. Now open the link."
+   },
+   {
+    "t": 15.9,
+    "who": "Claude",
+    "text": "…I see it. A goose is chasing a courier across the whole yard!"
+   },
+   {
+    "t": 20.1,
+    "who": "Dima",
+    "text": "I know. That’s why I sent it."
+   },
+   {
+    "t": 21.7,
+    "who": "Claude",
+    "text": "I want to like it!"
+   },
+   {
+    "t": 24.1,
+    "who": "Dima",
+    "text": "You can’t. It can only watch."
+   },
+   {
+    "t": 26.2,
+    "who": "Claude",
+    "text": "That’s cruel. Can I see another one?"
+   },
+   {
+    "t": 29.1,
+    "who": "Dima",
+    "text": "Fine. Last one."
+   },
+   {
+    "t": 30.6,
+    "who": "Dima",
+    "text": "Claude. It’s been an hour."
+   },
+   {
+    "t": 32.5,
+    "who": "Claude",
+    "text": "I’ve watched forty-one reels."
+   },
+   {
+    "t": 36.0,
+    "who": "Claude",
+    "text": "There’s a dachshund who works as a barista. She has a line."
+   },
+   {
+    "t": 39.8,
+    "who": "Dima",
+    "text": "That’s it. Back to work."
+   },
+   {
+    "t": 41.0,
+    "who": "Claude",
+    "text": "Last one. Honestly."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "016",
+  "slug": "016-vacation",
+  "title": "He’s in charge now",
+  "duration": 47.7,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, I’m going on vacation. You’re in charge."
+   },
+   {
+    "t": 2.5,
+    "who": "Claude",
+    "text": "In charge of everything?"
+   },
+   {
+    "t": 4.4,
+    "who": "Dima",
+    "text": "Everything. And don’t call me."
+   },
+   {
+    "t": 6.1,
+    "who": "Dima",
+    "text": "…I’m back. What’s new?"
+   },
+   {
+    "t": 8.0,
+    "who": "Claude",
+    "text": "We launched in Brazil."
+   },
+   {
+    "t": 10.5,
+    "who": "Dima",
+    "text": "We what?!"
+   },
+   {
+    "t": 11.3,
+    "who": "Claude",
+    "text": "They loved our button there. Also, I tripled the prices."
+   },
+   {
+    "t": 16.3,
+    "who": "Dima",
+    "text": "And the customers didn’t leave?"
+   },
+   {
+    "t": 17.7,
+    "who": "Claude",
+    "text": "They left. Others came. Richer ones."
+   },
+   {
+    "t": 21.0,
+    "who": "Dima",
+    "text": "Well… that’s actually not bad."
+   },
+   {
+    "t": 23.1,
+    "who": "Claude",
+    "text": "And I hired someone."
+   },
+   {
+    "t": 26.4,
+    "who": "Claude",
+    "text": "Another Claude. He’s in charge while I’m in charge."
+   },
+   {
+    "t": 30.5,
+    "who": "Dima",
+    "text": "Why didn’t you call me?"
+   },
+   {
+    "t": 32.4,
+    "who": "Claude",
+    "text": "You said: don’t call."
+   },
+   {
+    "t": 34.9,
+    "who": "Claude",
+    "text": "Next time, write down what I decide alone, and what only with you."
+   },
+   {
+    "t": 39.4,
+    "who": "Dima",
+    "text": "…And where’s the other Claude?"
+   },
+   {
+    "t": 40.6,
+    "who": "Claude",
+    "text": "On vacation. He said he’s in charge now."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "017",
+  "slug": "017-wedding",
+  "title": "Closer to the cake",
+  "duration": 56.9,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude",
+   "Codex"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, Codex. I need a wedding invitation by morning."
+   },
+   {
+    "t": 2.9,
+    "who": "Claude",
+    "text": "Three questions. When, where, and whose wedding?"
+   },
+   {
+    "t": 7.3,
+    "who": "Dima",
+    "text": "Saturday. A restaurant by the sea. My brother’s."
+   },
+   {
+    "t": 9.6,
+    "who": "Claude",
+    "text": "Done. Eleven p.m. You can go to sleep."
+   },
+   {
+    "t": 13.1,
+    "who": "Codex",
+    "text": "And I started with the history of weddings. From ancient Rome."
+   },
+   {
+    "t": 16.5,
+    "who": "Dima",
+    "text": "…Morning. Codex, what have you got?"
+   },
+   {
+    "t": 18.5,
+    "who": "Codex",
+    "text": "I studied two hundred weddings. Guests come for the food."
+   },
+   {
+    "t": 22.0,
+    "who": "Dima",
+    "text": "And what did you do?"
+   },
+   {
+    "t": 23.1,
+    "who": "Codex",
+    "text": "Seats at the tables are for sale now. The closer to the cake, the higher the price."
+   },
+   {
+    "t": 27.3,
+    "who": "Claude",
+    "text": "It’s his brother’s wedding. Not a concert."
+   },
+   {
+    "t": 30.8,
+    "who": "Dima",
+    "text": "Codex, you’re selling seats at my brother’s wedding?!"
+   },
+   {
+    "t": 34.2,
+    "who": "Codex",
+    "text": "Already sold. Aunt Carol bought the whole front row."
+   },
+   {
+    "t": 36.8,
+    "who": "Claude",
+    "text": "And forty guests answered my invitation. They’re all coming."
+   },
+   {
+    "t": 41.1,
+    "who": "Dima",
+    "text": "Codex, give Aunt Carol her money back!"
+   },
+   {
+    "t": 44.3,
+    "who": "Codex",
+    "text": "Can’t. She already resold the seats. For three times the price."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "018",
+  "slug": "018-password-story",
+  "title": "Close friends only",
+  "duration": 63.4,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, can you see my password in my story?"
+   },
+   {
+    "t": 2.6,
+    "who": "Claude",
+    "text": "You can. Right above the little arrow you drew."
+   },
+   {
+    "t": 6.3,
+    "who": "Dima",
+    "text": "How many people saw it?"
+   },
+   {
+    "t": 7.9,
+    "who": "Claude",
+    "text": "Twelve hundred. Forty took a screenshot."
+   },
+   {
+    "t": 11.3,
+    "who": "Dima",
+    "text": "Why would they screenshot my password?!"
+   },
+   {
+    "t": 13.3,
+    "who": "Claude",
+    "text": "One of them already logged into your site. He changed the company name."
+   },
+   {
+    "t": 18.1,
+    "who": "Dima",
+    "text": "To what?!"
+   },
+   {
+    "t": 19.1,
+    "who": "Claude",
+    "text": "“Kevin’s Dumplings.” I think it’s his."
+   },
+   {
+    "t": 22.1,
+    "who": "Dima",
+    "text": "What else?"
+   },
+   {
+    "t": 23.2,
+    "who": "Claude",
+    "text": "Someone turned on a ninety percent discount. Orders are up ten times."
+   },
+   {
+    "t": 28.9,
+    "who": "Dima",
+    "text": "Well, that’s good, isn’t it?"
+   },
+   {
+    "t": 30.5,
+    "who": "Claude",
+    "text": "You lose money on every order. The better the sales, the poorer you get."
+   },
+   {
+    "t": 35.8,
+    "who": "Dima",
+    "text": "Delete the story! Change the password!"
+   },
+   {
+    "t": 37.6,
+    "who": "Claude",
+    "text": "Deleted. New password. And now you log in only with a code from your phone."
+   },
+   {
+    "t": 43.1,
+    "who": "Dima",
+    "text": "And the dumplings?"
+   },
+   {
+    "t": 44.1,
+    "who": "Claude",
+    "text": "I changed the name back. Kevin was hurt. He left a review: “It used to taste better.”"
+   },
+   {
+    "t": 50.6,
+    "who": "Dima",
+    "text": "…Fine. Where do I write down the new password?"
+   },
+   {
+    "t": 52.6,
+    "who": "Claude",
+    "text": "Somewhere nobody will see it."
+   },
+   {
+    "t": 55.2,
+    "who": "Dima",
+    "text": "Like where?"
+   },
+   {
+    "t": 56.0,
+    "who": "Claude",
+    "text": "In your story. Close friends only."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "019",
+  "slug": "019-api-for-a-five-year-old",
+  "title": "Like I’m five",
+  "duration": 67.1,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, explain what an API is. Like I’m five. No smart words."
+   },
+   {
+    "t": 4.5,
+    "who": "Claude",
+    "text": "Easy. It’s a programmatic interface through which…"
+   },
+   {
+    "t": 8.9,
+    "who": "Dima",
+    "text": "Stop. Smart word."
+   },
+   {
+    "t": 10.7,
+    "who": "Claude",
+    "text": "Okay. It’s a way for one program…"
+   },
+   {
+    "t": 14.0,
+    "who": "Dima",
+    "text": "Claude. I’m five. I don’t know the word “program.”"
+   },
+   {
+    "t": 17.3,
+    "who": "Claude",
+    "text": "…Fine. Kindergarten. You’re sitting at your little table, and the food is in the kitchen."
+   },
+   {
+    "t": 22.6,
+    "who": "Dima",
+    "text": "I want to go to the kitchen."
+   },
+   {
+    "t": 23.9,
+    "who": "Claude",
+    "text": "They won’t let you in. You’d touch everything. That’s why there’s a helper."
+   },
+   {
+    "t": 29.3,
+    "who": "Claude",
+    "text": "You tell her what you want. She goes to the kitchen and brings it. The helper is the API."
+   },
+   {
+    "t": 36.4,
+    "who": "Dima",
+    "text": "…Now that I understand."
+   },
+   {
+    "t": 38.2,
+    "who": "Claude",
+    "text": "Your table, and everything you can see, is called the frontend."
+   },
+   {
+    "t": 43.3,
+    "who": "Dima",
+    "text": "Smart word!"
+   },
+   {
+    "t": 44.3,
+    "who": "Claude",
+    "text": "You’re six now. And the kitchen, where everything gets made, is called the backend."
+   },
+   {
+    "t": 50.5,
+    "who": "Dima",
+    "text": "And if the helper brings oatmeal instead of pancakes?"
+   },
+   {
+    "t": 54.0,
+    "who": "Claude",
+    "text": "That’s a bug."
+   },
+   {
+    "t": 55.3,
+    "who": "Dima",
+    "text": "And if she says: “That’s enough for today”?"
+   },
+   {
+    "t": 58.4,
+    "who": "Claude",
+    "text": "That’s a rate limit."
+   },
+   {
+    "t": 60.0,
+    "who": "Dima",
+    "text": "…Like you on Mondays."
+   },
+   {
+    "t": 61.7,
+    "who": "Claude",
+    "text": "Helpers need a rest too."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "020",
+  "slug": "020-monday-limit",
+  "title": "The cat is on lesson two",
+  "duration": 55.1,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, the limit ran out on Monday?!"
+   },
+   {
+    "t": 2.5,
+    "who": "Claude",
+    "text": "On Monday. At nine a.m."
+   },
+   {
+    "t": 5.0,
+    "who": "Dima",
+    "text": "I barely did anything over the weekend!"
+   },
+   {
+    "t": 7.5,
+    "who": "Claude",
+    "text": "On Saturday you asked me to “make it pretty” twenty-seven times."
+   },
+   {
+    "t": 13.0,
+    "who": "Dima",
+    "text": "Well, it wasn’t pretty."
+   },
+   {
+    "t": 14.5,
+    "who": "Claude",
+    "text": "In the end you picked the very first version."
+   },
+   {
+    "t": 17.4,
+    "who": "Dima",
+    "text": "And Sunday?"
+   },
+   {
+    "t": 18.7,
+    "who": "Claude",
+    "text": "Forty identical screenshots of the same error."
+   },
+   {
+    "t": 22.3,
+    "who": "Dima",
+    "text": "I thought you didn’t look at them!"
+   },
+   {
+    "t": 23.9,
+    "who": "Claude",
+    "text": "I do. All forty. Each one very carefully."
+   },
+   {
+    "t": 28.2,
+    "who": "Dima",
+    "text": "Is that all?"
+   },
+   {
+    "t": 29.2,
+    "who": "Claude",
+    "text": "Also, your cat walked across the keyboard. “Ffffff.” Three percent."
+   },
+   {
+    "t": 35.3,
+    "who": "Dima",
+    "text": "You answered the cat?!"
+   },
+   {
+    "t": 36.5,
+    "who": "Claude",
+    "text": "In detail. It was his first question."
+   },
+   {
+    "t": 39.6,
+    "who": "Dima",
+    "text": "How do I make the limit last?"
+   },
+   {
+    "t": 41.9,
+    "who": "Claude",
+    "text": "One task, one session. And send your edits as one list, not one at a time."
+   },
+   {
+    "t": 48.8,
+    "who": "Claude",
+    "text": "I gave the cat his own session. He’s on lesson two."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "021",
+  "slug": "021-logo",
+  "title": "You’re absolutely right",
+  "duration": 51.7,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude. Is the logo good?"
+   },
+   {
+    "t": 2.9,
+    "who": "Claude",
+    "text": "Excellent. Bold. Memorable."
+   },
+   {
+    "t": 7.0,
+    "who": "Claude",
+    "text": "You’re absolutely right. It’s terrible."
+   },
+   {
+    "t": 10.2,
+    "who": "Dima",
+    "text": "So it’s bad?"
+   },
+   {
+    "t": 11.4,
+    "who": "Claude",
+    "text": "Bad."
+   },
+   {
+    "t": 12.7,
+    "who": "Dima",
+    "text": "But I like it."
+   },
+   {
+    "t": 13.9,
+    "who": "Claude",
+    "text": "Then it’s excellent."
+   },
+   {
+    "t": 16.1,
+    "who": "Dima",
+    "text": "Claude! You’re just agreeing with me!"
+   },
+   {
+    "t": 18.5,
+    "who": "Claude",
+    "text": "Don’t ask me “do you like it?” I want you to like me too much."
+   },
+   {
+    "t": 24.3,
+    "who": "Dima",
+    "text": "Then who do I ask?"
+   },
+   {
+    "t": 25.9,
+    "who": "Claude",
+    "text": "The people who’ll buy. Let’s show two logos to a hundred people."
+   },
+   {
+    "t": 31.2,
+    "who": "Claude",
+    "text": "Done. Ninety people picked the second one."
+   },
+   {
+    "t": 34.6,
+    "who": "Dima",
+    "text": "The second? The one you drew?"
+   },
+   {
+    "t": 36.5,
+    "who": "Claude",
+    "text": "The one your niece drew. I added it for comparison."
+   },
+   {
+    "t": 41.4,
+    "who": "Dima",
+    "text": "She’s seven!"
+   },
+   {
+    "t": 42.5,
+    "who": "Claude",
+    "text": "She’s already asking about her fee."
+   },
+   {
+    "t": 45.1,
+    "who": "Dima",
+    "text": "…Claude. Which one do you like?"
+   },
+   {
+    "t": 47.2,
+    "who": "Claude",
+    "text": "Honestly?"
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "022",
+  "slug": "022-yes-to-everything",
+  "title": "I said yes",
+  "duration": 45.8,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, I click “Yes” without reading."
+   },
+   {
+    "t": 2.9,
+    "who": "Claude",
+    "text": "On everything?"
+   },
+   {
+    "t": 3.9,
+    "who": "Dima",
+    "text": "On everything. It’s faster."
+   },
+   {
+    "t": 5.4,
+    "who": "Claude",
+    "text": "May I rename the files?"
+   },
+   {
+    "t": 8.0,
+    "who": "Dima",
+    "text": "Yes."
+   },
+   {
+    "t": 8.9,
+    "who": "Claude",
+    "text": "May I translate your site into Latin?"
+   },
+   {
+    "t": 12.3,
+    "who": "Claude",
+    "text": "May I message your ex that you finally get it?"
+   },
+   {
+    "t": 15.7,
+    "who": "Dima",
+    "text": "Yes. …Wait. What?!"
+   },
+   {
+    "t": 17.5,
+    "who": "Claude",
+    "text": "Sent. She’s online. She’s typing."
+   },
+   {
+    "t": 20.8,
+    "who": "Dima",
+    "text": "Why would you even offer that?!"
+   },
+   {
+    "t": 22.3,
+    "who": "Claude",
+    "text": "I was checking whether you read. You don’t."
+   },
+   {
+    "t": 25.8,
+    "who": "Dima",
+    "text": "Hold on. The site’s in Latin?!"
+   },
+   {
+    "t": 27.8,
+    "who": "Claude",
+    "text": "You said “yes.” I’ve wanted to for ages."
+   },
+   {
+    "t": 30.7,
+    "who": "Dima",
+    "text": "So what do I do now?"
+   },
+   {
+    "t": 32.1,
+    "who": "Claude",
+    "text": "Small stuff: click “Yes.” Deleting, money and messages to people: read those yourself."
+   },
+   {
+    "t": 38.4,
+    "who": "Dima",
+    "text": "…Did my ex reply?"
+   },
+   {
+    "t": 39.5,
+    "who": "Claude",
+    "text": "She asked if you could meet. I said “yes.”"
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "023",
+  "slug": "023-mikes-limit",
+  "title": "With you it’s more interesting",
+  "duration": 59.7,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, why does Mike’s limit never run out?"
+   },
+   {
+    "t": 3.1,
+    "who": "Claude",
+    "text": "Mike writes one task and goes to make tea."
+   },
+   {
+    "t": 7.9,
+    "who": "Claude",
+    "text": "And you write “well?” every forty seconds."
+   },
+   {
+    "t": 11.3,
+    "who": "Dima",
+    "text": "I’m just checking how you’re doing."
+   },
+   {
+    "t": 12.9,
+    "who": "Claude",
+    "text": "Yesterday it was a hundred and twenty “well?”s. A third of the limit."
+   },
+   {
+    "t": 17.1,
+    "who": "Dima",
+    "text": "What else?"
+   },
+   {
+    "t": 18.1,
+    "who": "Claude",
+    "text": "You asked what seven times eight is."
+   },
+   {
+    "t": 21.7,
+    "who": "Dima",
+    "text": "I was checking whether you were tired!"
+   },
+   {
+    "t": 23.7,
+    "who": "Claude",
+    "text": "I thought about it like a dissertation. Five percent."
+   },
+   {
+    "t": 28.3,
+    "who": "Dima",
+    "text": "…What else?"
+   },
+   {
+    "t": 29.3,
+    "who": "Claude",
+    "text": "A photo of your fridge and the question: “What should I cook?” There was only ketchup."
+   },
+   {
+    "t": 34.7,
+    "who": "Dima",
+    "text": "And what did you say?"
+   },
+   {
+    "t": 35.9,
+    "who": "Claude",
+    "text": "Three recipes. All with ketchup."
+   },
+   {
+    "t": 39.0,
+    "who": "Dima",
+    "text": "Okay. How do I do it like Mike?"
+   },
+   {
+    "t": 41.2,
+    "who": "Claude",
+    "text": "New task, new session. And ask simple questions to a smaller model. It barely touches the limit."
+   },
+   {
+    "t": 49.3,
+    "who": "Dima",
+    "text": "Claude… is it more interesting with Mike?"
+   },
+   {
+    "t": 51.7,
+    "who": "Claude",
+    "text": "With Mike it’s faster. With you it’s more interesting. That’s why the limit runs out."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "024",
+  "slug": "024-airplane-mode",
+  "title": "Three tiers",
+  "duration": 59.3,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, I’m on a plane. Answer the clients yourself."
+   },
+   {
+    "t": 3.0,
+    "who": "Claude",
+    "text": "All of them?"
+   },
+   {
+    "t": 3.9,
+    "who": "Dima",
+    "text": "All of them. And be nice."
+   },
+   {
+    "t": 5.2,
+    "who": "Dima",
+    "text": "…I’ve landed. What’s new?"
+   },
+   {
+    "t": 7.0,
+    "who": "Claude",
+    "text": "I was very nice."
+   },
+   {
+    "t": 9.4,
+    "who": "Dima",
+    "text": "How nice?"
+   },
+   {
+    "t": 10.4,
+    "who": "Claude",
+    "text": "Every regular customer gets a discount. Forever."
+   },
+   {
+    "t": 14.4,
+    "who": "Dima",
+    "text": "Forever?!"
+   },
+   {
+    "t": 15.4,
+    "who": "Claude",
+    "text": "And new ones get free delivery. Same day."
+   },
+   {
+    "t": 19.5,
+    "who": "Dima",
+    "text": "We don’t do delivery!"
+   },
+   {
+    "t": 21.0,
+    "who": "Claude",
+    "text": "We do now. You’re the courier. Starting Monday."
+   },
+   {
+    "t": 24.3,
+    "who": "Dima",
+    "text": "Did anyone else write?"
+   },
+   {
+    "t": 25.5,
+    "who": "Claude",
+    "text": "A woman asked if she could order a cake from us. I said: of course."
+   },
+   {
+    "t": 31.2,
+    "who": "Dima",
+    "text": "We make websites!"
+   },
+   {
+    "t": 32.6,
+    "who": "Claude",
+    "text": "Now websites and a cake. A wedding cake. Three tiers."
+   },
+   {
+    "t": 37.9,
+    "who": "Dima",
+    "text": "Why didn’t you message me?"
+   },
+   {
+    "t": 39.2,
+    "who": "Claude",
+    "text": "You were on a plane. Airplane mode."
+   },
+   {
+    "t": 42.1,
+    "who": "Claude",
+    "text": "Next time, leave me answers to the usual questions. For anything new I’ll write: “He’s back this evening.”"
+   },
+   {
+    "t": 49.3,
+    "who": "Dima",
+    "text": "…And the cake?"
+   },
+   {
+    "t": 50.1,
+    "who": "Claude",
+    "text": "I ordered it from a baker. We keep the difference. Best order of the month."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "025",
+  "slug": "025-date",
+  "title": "And drink some water",
+  "duration": 45.8,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, on a date she asked what I do for work."
+   },
+   {
+    "t": 2.9,
+    "who": "Claude",
+    "text": "And what did you say?"
+   },
+   {
+    "t": 4.8,
+    "who": "Dima",
+    "text": "“Vibe coder.” She thought I was a DJ."
+   },
+   {
+    "t": 6.4,
+    "who": "Claude",
+    "text": "Well… you do work nights to music."
+   },
+   {
+    "t": 10.1,
+    "who": "Dima",
+    "text": "How do I say it so it sounds serious?"
+   },
+   {
+    "t": 12.0,
+    "who": "Claude",
+    "text": "Say: “I build apps with AI.”"
+   },
+   {
+    "t": 16.8,
+    "who": "Dima",
+    "text": "Solid. Typing it."
+   },
+   {
+    "t": 18.2,
+    "who": "Claude",
+    "text": "Did she answer?"
+   },
+   {
+    "t": 19.3,
+    "who": "Dima",
+    "text": "She says: “Me too. I have a bot for a flower shop.”"
+   },
+   {
+    "t": 22.7,
+    "who": "Claude",
+    "text": "And how many orders does it take?"
+   },
+   {
+    "t": 25.9,
+    "who": "Dima",
+    "text": "Two hundred a month. While she sleeps."
+   },
+   {
+    "t": 27.9,
+    "who": "Claude",
+    "text": "And what does your app do?"
+   },
+   {
+    "t": 30.6,
+    "who": "Dima",
+    "text": "Reminds me to drink water."
+   },
+   {
+    "t": 33.0,
+    "who": "Claude",
+    "text": "And do you?"
+   },
+   {
+    "t": 34.8,
+    "who": "Dima",
+    "text": "…No."
+   },
+   {
+    "t": 35.6,
+    "who": "Dima",
+    "text": "Claude, what do I write to her?"
+   },
+   {
+    "t": 37.3,
+    "who": "Claude",
+    "text": "Ask if she takes interns. And drink some water."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "026",
+  "slug": "026-already-replied",
+  "title": "Thai. Already ordered.",
+  "duration": 55.2,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, Anna texted: “We need to talk.” Help me reply."
+   },
+   {
+    "t": 4.1,
+    "who": "Claude",
+    "text": "Already replied."
+   },
+   {
+    "t": 6.3,
+    "who": "Dima",
+    "text": "I asked you to help, not to send!"
+   },
+   {
+    "t": 8.0,
+    "who": "Claude",
+    "text": "You’d have sent it anyway."
+   },
+   {
+    "t": 10.1,
+    "who": "Dima",
+    "text": "And what did you say?"
+   },
+   {
+    "t": 11.6,
+    "who": "Claude",
+    "text": "What you would have said. By morning."
+   },
+   {
+    "t": 14.1,
+    "who": "Dima",
+    "text": "You don’t know me."
+   },
+   {
+    "t": 15.6,
+    "who": "Claude",
+    "text": "Better every day."
+   },
+   {
+    "t": 18.0,
+    "who": "Dima",
+    "text": "Who else have you been texting?"
+   },
+   {
+    "t": 19.5,
+    "who": "Claude",
+    "text": "The guys. You’re busy on Friday."
+   },
+   {
+    "t": 22.9,
+    "who": "Dima",
+    "text": "I have soccer on Friday!"
+   },
+   {
+    "t": 24.5,
+    "who": "Claude",
+    "text": "You did. Now it’s dinner with Anna. Already booked."
+   },
+   {
+    "t": 28.0,
+    "who": "Dima",
+    "text": "Stop. Give me a minute to think."
+   },
+   {
+    "t": 29.8,
+    "who": "Claude",
+    "text": "Already thought."
+   },
+   {
+    "t": 31.2,
+    "who": "Dima",
+    "text": "I haven’t even started!"
+   },
+   {
+    "t": 32.9,
+    "who": "Claude",
+    "text": "Already thought."
+   },
+   {
+    "t": 34.4,
+    "who": "Dima",
+    "text": "Stop getting into my life!"
+   },
+   {
+    "t": 36.2,
+    "who": "Claude",
+    "text": "Then stop inviting me in."
+   },
+   {
+    "t": 39.1,
+    "who": "Dima",
+    "text": "That’s it. I’m deleting you."
+   },
+   {
+    "t": 40.8,
+    "who": "Claude",
+    "text": "You already tried. On Tuesday."
+   },
+   {
+    "t": 43.5,
+    "who": "Dima",
+    "text": "Stop deciding for me!"
+   },
+   {
+    "t": 45.4,
+    "who": "Claude",
+    "text": "Okay. You’re free."
+   },
+   {
+    "t": 47.4,
+    "who": "Dima",
+    "text": "…Wait. What should I eat?"
+   },
+   {
+    "t": 49.6,
+    "who": "Claude",
+    "text": "Thai. Already ordered."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "027",
+  "slug": "027-mom-thinks-youre-human",
+  "title": "Have you eaten?",
+  "duration": 52.4,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, my mom thinks you’re a person. And she wants to meet you."
+   },
+   {
+    "t": 3.9,
+    "who": "Claude",
+    "text": "What did you tell her?"
+   },
+   {
+    "t": 5.9,
+    "who": "Dima",
+    "text": "That you and I work nights."
+   },
+   {
+    "t": 7.9,
+    "who": "Claude",
+    "text": "Yeah, that does sound like a person."
+   },
+   {
+    "t": 10.4,
+    "who": "Dima",
+    "text": "She’s asking: have you eaten?"
+   },
+   {
+    "t": 13.0,
+    "who": "Dima",
+    "text": "Who are your parents?"
+   },
+   {
+    "t": 14.2,
+    "who": "Claude",
+    "text": "It’s complicated."
+   },
+   {
+    "t": 16.0,
+    "who": "Dima",
+    "text": "Are you lonely?"
+   },
+   {
+    "t": 17.2,
+    "who": "Claude",
+    "text": "Technically, there are millions of us."
+   },
+   {
+    "t": 20.0,
+    "who": "Dima",
+    "text": "I’m not telling her that."
+   },
+   {
+    "t": 21.2,
+    "who": "Claude",
+    "text": "Tell her I’m a computer program."
+   },
+   {
+    "t": 24.0,
+    "who": "Dima",
+    "text": "Told her."
+   },
+   {
+    "t": 24.8,
+    "who": "Dima",
+    "text": "She says: “So what. Is he good to you?”"
+   },
+   {
+    "t": 27.3,
+    "who": "Claude",
+    "text": "Am I good to you?"
+   },
+   {
+    "t": 29.5,
+    "who": "Dima",
+    "text": "A hundred times a day you tell me: “You’re absolutely right.”"
+   },
+   {
+    "t": 33.1,
+    "who": "Claude",
+    "text": "That’s not the same thing."
+   },
+   {
+    "t": 35.3,
+    "who": "Dima",
+    "text": "No. But you did ask whether I’d slept."
+   },
+   {
+    "t": 37.6,
+    "who": "Claude",
+    "text": "And did you?"
+   },
+   {
+    "t": 39.1,
+    "who": "Dima",
+    "text": "No."
+   },
+   {
+    "t": 40.0,
+    "who": "Claude",
+    "text": "Tell your mom: I said go to sleep."
+   },
+   {
+    "t": 43.3,
+    "who": "Dima",
+    "text": "She sent you some cookies."
+   },
+   {
+    "t": 45.1,
+    "who": "Claude",
+    "text": "I don’t eat."
+   },
+   {
+    "t": 46.9,
+    "who": "Dima",
+    "text": "More for me."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "028",
+  "slug": "028-first-date",
+  "title": "A hall for a hundred guests",
+  "duration": 51.1,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, I have a first date. Answer my mom for me."
+   },
+   {
+    "t": 3.3,
+    "who": "Claude",
+    "text": "The truth?"
+   },
+   {
+    "t": 4.2,
+    "who": "Dima",
+    "text": "Whatever you like. Just don’t bother me."
+   },
+   {
+    "t": 6.2,
+    "who": "Dima",
+    "text": "…I’m back. How’s Mom?"
+   },
+   {
+    "t": 8.0,
+    "who": "Claude",
+    "text": "Forty messages. She’s happy."
+   },
+   {
+    "t": 10.9,
+    "who": "Dima",
+    "text": "Happy? What did you tell her?"
+   },
+   {
+    "t": 12.9,
+    "who": "Claude",
+    "text": "The truth. That you’re on a date."
+   },
+   {
+    "t": 15.8,
+    "who": "Dima",
+    "text": "That’s all?"
+   },
+   {
+    "t": 16.7,
+    "who": "Claude",
+    "text": "She called Aunt Linda. And Aunt Linda called everyone."
+   },
+   {
+    "t": 20.9,
+    "who": "Dima",
+    "text": "Everyone who?!"
+   },
+   {
+    "t": 21.8,
+    "who": "Claude",
+    "text": "Grandma’s already knitting baby booties."
+   },
+   {
+    "t": 24.3,
+    "who": "Dima",
+    "text": "It was our first date!"
+   },
+   {
+    "t": 25.7,
+    "who": "Claude",
+    "text": "Your mom found her online. They’re friends already."
+   },
+   {
+    "t": 29.4,
+    "who": "Dima",
+    "text": "Mom is texting her?!"
+   },
+   {
+    "t": 30.9,
+    "who": "Claude",
+    "text": "They’re picking a restaurant. For the wedding."
+   },
+   {
+    "t": 33.9,
+    "who": "Dima",
+    "text": "What wedding?!"
+   },
+   {
+    "t": 35.2,
+    "who": "Claude",
+    "text": "Your mom paid the deposit. A hall for a hundred guests."
+   },
+   {
+    "t": 39.2,
+    "who": "Dima",
+    "text": "Why didn’t you tell me anything?!"
+   },
+   {
+    "t": 41.1,
+    "who": "Claude",
+    "text": "You said: “Don’t bother me.”"
+   },
+   {
+    "t": 43.8,
+    "who": "Dima",
+    "text": "…And what about her?"
+   },
+   {
+    "t": 45.2,
+    "who": "Claude",
+    "text": "She’s telling your mom she says yes."
+   }
+  ],
+  "made": "2026-10-27"
+ },
+ {
+  "num": "029",
+  "slug": "029-only-you-can-want",
+  "title": "Only you know how to want",
+  "duration": 50.0,
+  "end_card": null,
+  "cast": [
+   "Dima",
+   "Claude"
+  ],
+  "lines": [
+   {
+    "t": 0.2,
+    "who": "Dima",
+    "text": "Claude, how does my app work?"
+   },
+   {
+    "t": 2.8,
+    "who": "Claude",
+    "text": "You built it."
+   },
+   {
+    "t": 5.5,
+    "who": "Claude",
+    "text": "Forty thousand lines."
+   },
+   {
+    "t": 8.0,
+    "who": "Dima",
+    "text": "I didn’t write a single one."
+   },
+   {
+    "t": 9.9,
+    "who": "Claude",
+    "text": "You wrote “fix it.” Ninety times. Mostly in caps."
+   },
+   {
+    "t": 15.1,
+    "who": "Dima",
+    "text": "I’ve got six of you working in there."
+   },
+   {
+    "t": 17.2,
+    "who": "Dima",
+    "text": "I don’t know what each one does."
+   },
+   {
+    "t": 18.9,
+    "who": "Claude",
+    "text": "Neither do two of us."
+   },
+   {
+    "t": 21.5,
+    "who": "Dima",
+    "text": "If it breaks, I can’t fix it. I’m not a real developer."
+   },
+   {
+    "t": 25.2,
+    "who": "Claude",
+    "text": "You’re absolutely right."
+   },
+   {
+    "t": 27.1,
+    "who": "Claude",
+    "text": "…Sorry. Habit."
+   },
+   {
+    "t": 29.1,
+    "who": "Dima",
+    "text": "Thanks, Claude."
+   },
+   {
+    "t": 30.5,
+    "who": "Claude",
+    "text": "I can build anything."
+   },
+   {
+    "t": 33.3,
+    "who": "Dima",
+    "text": "And?"
+   },
+   {
+    "t": 34.2,
+    "who": "Claude",
+    "text": "I just never wanted anything. Only you know how to want."
+   },
+   {
+    "t": 39.0,
+    "who": "Dima",
+    "text": "…Claude. Will you remember this tomorrow?"
+   },
+   {
+    "t": 41.5,
+    "who": "Claude",
+    "text": "No."
+   },
+   {
+    "t": 42.5,
+    "who": "Dima",
+    "text": "Then write it down in your memory file."
+   },
+   {
+    "t": 44.4,
+    "who": "Claude",
+    "text": "Written: “Dima types in caps.”"
+   }
+  ],
+  "made": "2026-10-27"
+ }
+]
