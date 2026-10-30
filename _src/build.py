@@ -226,6 +226,12 @@ def main():
     with open(os.path.join(ROOT, 'sitemap.xml'), 'w') as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>%s</loc></url>\n' % SITE +
                 ''.join('  <url><loc>%s%s</loc></url>\n' % (SITE, e['slug']) for e in eps) + '</urlset>\n')
+    # episodes.json: what Herald's "series" stream reads (one episode a day to YouTube and other video channels)
+    feed = [{'num': e['num'], 'slug': e['slug'], 'title': e['title'], 'description': descs[e['num']], 'duration': e['duration'],
+             'cast': e['cast'], 'page': SITE + e['slug'], 'video': SITE + 'videos/%s.mp4' % e['slug'],
+             'poster': SITE + 'posters/%s.jpg' % e['slug'], 'script': [[l['who'], l['text']] for l in e['lines']]} for e in eps]
+    with open(os.path.join(ROOT, 'episodes.json'), 'w', encoding='utf-8') as f:
+        json.dump({'series': NAME, 'url': SITE, 'credit': CREDIT, 'episodes': feed}, f, ensure_ascii=False, indent=1)
     with open(os.path.join(ROOT, 'llms.txt'), 'w') as f:
         f.write('# %s\n\n> %d short English comedy episodes about Dima, a developer, and Claude, the AI that works with him. Each page has the video and its full script.\n\n## Episodes\n\n' % (NAME, len(eps)) +
                 ''.join('- [%s](%s%s): %s\n' % (e['title'], SITE, e['slug'], descs[e['num']]) for e in eps))

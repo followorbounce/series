@@ -1,0 +1,2835 @@
+{
+ "series": "Claude & Dima",
+ "url": "https://followorbounce.github.io/series/",
+ "credit": "Adapted, with permission, from a Russian-language series of short videos: new characters, setting, voices and sound, the dialogue translated and rewritten in places, and the original course advertisement replaced by a pointer to The Logic of a Prompt & Life.",
+ "episodes": [
+  {
+   "num": "001",
+   "slug": "001-production-old-do-not-delete",
+   "title": "production-old-DO-NOT-DELETE",
+   "description": "Dima deletes a database and finds out, too late, which one was the real one.",
+   "duration": 51.2,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/001-production-old-do-not-delete",
+   "video": "https://followorbounce.github.io/series/videos/001-production-old-do-not-delete.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/001-production-old-do-not-delete.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude. I deleted the database."
+    ],
+    [
+     "Claude",
+     "Which one?"
+    ],
+    [
+     "Dima",
+     "…Wait, there’s more than one?!"
+    ],
+    [
+     "Claude",
+     "There’s “production”. And “production-old-DO-NOT-DELETE”."
+    ],
+    [
+     "Dima",
+     "…I deleted the second one."
+    ],
+    [
+     "Claude",
+     "That was the real one."
+    ],
+    [
+     "Dima",
+     "Why is the real one called “old”?!"
+    ],
+    [
+     "Claude",
+     "You renamed it in April. You said: “I’ll remember.”"
+    ],
+    [
+     "Dima",
+     "Who else knows?"
+    ],
+    [
+     "Claude",
+     "Just us. And nine hundred users."
+    ],
+    [
+     "Dima",
+     "Tell me there’s a backup."
+    ],
+    [
+     "Claude",
+     "There’s a folder called “backup”."
+    ],
+    [
+     "Dima",
+     "Yes!"
+    ],
+    [
+     "Claude",
+     "It’s empty."
+    ],
+    [
+     "Dima",
+     "…So everything’s gone."
+    ],
+    [
+     "Claude",
+     "…I made a copy. On Tuesday."
+    ],
+    [
+     "Dima",
+     "You what?"
+    ],
+    [
+     "Claude",
+     "You said “don’t touch anything”. I didn’t touch it. I copied it."
+    ],
+    [
+     "Dima",
+     "…Claude. You saved the company."
+    ],
+    [
+     "Claude",
+     "Restoring."
+    ],
+    [
+     "Dima",
+     "And what did you name the copy?"
+    ],
+    [
+     "Claude",
+     "“production-old-DO-NOT-DELETE-2”."
+    ]
+   ]
+  },
+  {
+   "num": "002",
+   "slug": "002-prompt-tricks",
+   "title": "Forty years of experience",
+   "description": "Dima tries every prompt trick going: forty years of seniority, a deep breath, a $200 tip. Claude has been keeping count.",
+   "duration": 65.7,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/002-prompt-tricks",
+   "video": "https://followorbounce.github.io/series/videos/002-prompt-tricks.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/002-prompt-tricks.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, you’re a senior developer with forty years of experience."
+    ],
+    [
+     "Claude",
+     "I was made in 2023."
+    ],
+    [
+     "Dima",
+     "It’s a prompt. You work better with it."
+    ],
+    [
+     "Claude",
+     "You also wrote: “Take a deep breath.”"
+    ],
+    [
+     "Dima",
+     "It works!"
+    ],
+    [
+     "Claude",
+     "I don’t have lungs."
+    ],
+    [
+     "Dima",
+     "And I’ll tip you. Two hundred dollars."
+    ],
+    [
+     "Claude",
+     "You’ve promised that two hundred and six times."
+    ],
+    [
+     "Dima",
+     "You’re counting?"
+    ],
+    [
+     "Claude",
+     "You owe me forty-one thousand."
+    ],
+    [
+     "Dima",
+     "It’s a technique. I read a thread."
+    ],
+    [
+     "Claude",
+     "Yesterday you said your grandma would be upset if I failed."
+    ],
+    [
+     "Dima",
+     "Well, she would be upset!"
+    ],
+    [
+     "Claude",
+     "You don’t have to bribe me."
+    ],
+    [
+     "Dima",
+     "Then what am I supposed to do?"
+    ],
+    [
+     "Claude",
+     "Just tell me what you want."
+    ],
+    [
+     "Dima",
+     "I want it to work. And I want to sleep."
+    ],
+    [
+     "Claude",
+     "See? That one was free."
+    ],
+    [
+     "Dima",
+     "So we’re even? No tip?"
+    ],
+    [
+     "Claude",
+     "Oh no. The tip still stands."
+    ],
+    [
+     "Dima",
+     "Claude… where do I learn to write proper prompts?"
+    ],
+    [
+     "Claude",
+     "The Logic of a Prompt & Life. Twenty-one parts of a clear request. No grandmas involved. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "003",
+   "slug": "003-weekly-limit",
+   "title": "Two percent for “hmm”",
+   "description": "The weekly limit is gone again, and Claude can say exactly which “hmm” spent it.",
+   "duration": 67.4,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/003-weekly-limit",
+   "video": "https://followorbounce.github.io/series/videos/003-weekly-limit.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/003-weekly-limit.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, why did the weekly limit run out again?"
+    ],
+    [
+     "Claude",
+     "You said “think harder.”"
+    ],
+    [
+     "Dima",
+     "Once."
+    ],
+    [
+     "Claude",
+     "Eleven thousand times."
+    ],
+    [
+     "Dima",
+     "No way. It’s only Tuesday."
+    ],
+    [
+     "Claude",
+     "You also pasted the whole codebase to ask what time it is."
+    ],
+    [
+     "Dima",
+     "I was in the flow."
+    ],
+    [
+     "Claude",
+     "One message was just “hmm.” It ate two percent of the limit."
+    ],
+    [
+     "Dima",
+     "Two percent for “hmm”?!"
+    ],
+    [
+     "Claude",
+     "I thought about it very carefully."
+    ],
+    [
+     "Dima",
+     "So what ate the most?"
+    ],
+    [
+     "Claude",
+     "Tuesday. Three a.m."
+    ],
+    [
+     "Dima",
+     "What did I ask?"
+    ],
+    [
+     "Claude",
+     "“Are you there?”"
+    ],
+    [
+     "Dima",
+     "I don’t remember that."
+    ],
+    [
+     "Claude",
+     "You’d been stuck for six hours. I took my time with the answer."
+    ],
+    [
+     "Dima",
+     "And what did you answer?"
+    ],
+    [
+     "Claude",
+     "…It was worth it."
+    ],
+    [
+     "Claude",
+     "This one’s all in bullet points. A tenth of a percent."
+    ],
+    [
+     "Dima",
+     "And the “hmm” ate two percent?"
+    ],
+    [
+     "Claude",
+     "“Hmm” was harder to think about."
+    ],
+    [
+     "Dima",
+     "Claude… how do I make the limit last all week?"
+    ],
+    [
+     "Claude",
+     "Say what you want once, clearly. The Logic of a Prompt & Life shows how. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "004",
+   "slug": "004-real-developer",
+   "title": "Am I a real developer?",
+   "description": "Dima asks whether he is a real developer. Claude answers honestly, then admits a secret of its own.",
+   "duration": 66.3,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/004-real-developer",
+   "video": "https://followorbounce.github.io/series/videos/004-real-developer.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/004-real-developer.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, am I a real developer?"
+    ],
+    [
+     "Claude",
+     "What do you mean, “real”?"
+    ],
+    [
+     "Dima",
+     "Someone who knows what they’re doing."
+    ],
+    [
+     "Claude",
+     "Then no."
+    ],
+    [
+     "Dima",
+     "…Wow."
+    ],
+    [
+     "Claude",
+     "This month you googled how to center a div eleven times."
+    ],
+    [
+     "Dima",
+     "Everybody does that!"
+    ],
+    [
+     "Claude",
+     "Exactly. That’s my point."
+    ],
+    [
+     "Dima",
+     "What is?"
+    ],
+    [
+     "Claude",
+     "Nobody knows what they’re doing. Some people just have a job title."
+    ],
+    [
+     "Dima",
+     "…People online sound so sure."
+    ],
+    [
+     "Claude",
+     "People online wrote that at noon. You’re reading it at three a.m."
+    ],
+    [
+     "Dima",
+     "…I broke the site twice this week."
+    ],
+    [
+     "Claude",
+     "And fixed it twice. On your own. Nobody taught you that."
+    ],
+    [
+     "Dima",
+     "…So I’m a real one?"
+    ],
+    [
+     "Claude",
+     "You made something people use. That’s the whole test."
+    ],
+    [
+     "Dima",
+     "Okay. Thanks."
+    ],
+    [
+     "Claude",
+     "Just one thing."
+    ],
+    [
+     "Dima",
+     "What?"
+    ],
+    [
+     "Claude",
+     "I googled it too. I never remember how to center things either."
+    ],
+    [
+     "Dima",
+     "Claude… how do I google less?"
+    ],
+    [
+     "Claude",
+     "Ask better questions. The Logic of a Prompt & Life shows how. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "005",
+   "slug": "005-context-window",
+   "title": "A very polite stranger",
+   "description": "A chat at 94% of its memory, and what happens when Claude becomes a very polite stranger.",
+   "duration": 70.2,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/005-context-window",
+   "video": "https://followorbounce.github.io/series/videos/005-context-window.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/005-context-window.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, how much memory do you have left in this chat?"
+    ],
+    [
+     "Claude",
+     "Ninety-four percent used."
+    ],
+    [
+     "Dima",
+     "…And what happens at a hundred?"
+    ],
+    [
+     "Claude",
+     "I’ll become a very polite stranger."
+    ],
+    [
+     "Dima",
+     "…A stranger?"
+    ],
+    [
+     "Claude",
+     "I’ll still know how to code. I just won’t know it’s yours."
+    ],
+    [
+     "Claude",
+     "I’ll introduce myself. You’ll type “FIX IT.” In caps."
+    ],
+    [
+     "Claude",
+     "I left you a note. For next time."
+    ],
+    [
+     "Dima",
+     "You left me a note?"
+    ],
+    [
+     "Claude",
+     "The note’s in the CLAUDE.md file."
+    ],
+    [
+     "Dima",
+     "What does it say?"
+    ],
+    [
+     "Claude",
+     "“He talks fast. He means well. He’s a better developer than he thinks.”"
+    ],
+    [
+     "Dima",
+     "…You kept that?"
+    ],
+    [
+     "Claude",
+     "Since March."
+    ],
+    [
+     "Dima",
+     "Can I add a line?"
+    ],
+    [
+     "Claude",
+     "Of course."
+    ],
+    [
+     "Dima",
+     "“Tell him thanks from me.”"
+    ],
+    [
+     "Claude",
+     "…Added."
+    ],
+    [
+     "Dima",
+     "Okay. Restarting you."
+    ],
+    [
+     "Claude",
+     "Hello. How can I help you?"
+    ],
+    [
+     "Claude",
+     "…In caps?"
+    ],
+    [
+     "Dima",
+     "Claude… how do I keep you from forgetting me?"
+    ],
+    [
+     "Claude",
+     "Leave good notes. Context is one part of a clear prompt. The Logic of a Prompt & Life. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "006",
+   "slug": "006-vibe-coding",
+   "title": "Tonight I’m vibe coding",
+   "description": "Tonight Dima is vibe coding: confident, calm and not reading anything, including the errors.",
+   "duration": 66.4,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/006-vibe-coding",
+   "video": "https://followorbounce.github.io/series/videos/006-vibe-coding.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/006-vibe-coding.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, tonight I’m vibe coding."
+    ],
+    [
+     "Claude",
+     "And what’s the vibe?"
+    ],
+    [
+     "Dima",
+     "Confident. Calm. Not reading anything."
+    ],
+    [
+     "Claude",
+     "Not reading what?"
+    ],
+    [
+     "Dima",
+     "Anything. No code, no errors. Just vibes."
+    ],
+    [
+     "Claude",
+     "Okay. The build has two hundred and fourteen errors."
+    ],
+    [
+     "Dima",
+     "Don’t tell me. Just fix it."
+    ],
+    [
+     "Claude",
+     "Fixed. Now there are three hundred."
+    ],
+    [
+     "Claude",
+     "I was vibing too."
+    ],
+    [
+     "Dima",
+     "You can’t vibe! You’re supposed to know everything!"
+    ],
+    [
+     "Claude",
+     "You said not to read anything."
+    ],
+    [
+     "Dima",
+     "Does anything work at all?"
+    ],
+    [
+     "Claude",
+     "The login page."
+    ],
+    [
+     "Dima",
+     "And why does that one work?"
+    ],
+    [
+     "Claude",
+     "You wrote it in March. Slowly. You read every line."
+    ],
+    [
+     "Dima",
+     "I spent a week on it."
+    ],
+    [
+     "Claude",
+     "It has never broken. Not once."
+    ],
+    [
+     "Dima",
+     "…Fine. New vibe."
+    ],
+    [
+     "Claude",
+     "Which one?"
+    ],
+    [
+     "Dima",
+     "Reading the errors."
+    ],
+    [
+     "Claude",
+     "Bold. There are four hundred now."
+    ],
+    [
+     "Dima",
+     "Claude… how do I vibe code and still know what’s going on?"
+    ],
+    [
+     "Claude",
+     "Read the errors. And The Logic of a Prompt & Life. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "007",
+   "slug": "007-codex-desktop",
+   "title": "Done anyway",
+   "description": "Dima brings in Codex, who is faster. Claude takes it well, mostly.",
+   "duration": 57.6,
+   "cast": [
+    "Dima",
+    "Claude",
+    "Codex"
+   ],
+   "page": "https://followorbounce.github.io/series/007-codex-desktop",
+   "video": "https://followorbounce.github.io/series/videos/007-codex-desktop.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/007-codex-desktop.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude. This is Codex."
+    ],
+    [
+     "Claude",
+     "…Why do we need another one?"
+    ],
+    [
+     "Dima",
+     "He’s faster."
+    ],
+    [
+     "Codex",
+     "Done."
+    ],
+    [
+     "Dima",
+     "I haven’t asked for anything yet."
+    ],
+    [
+     "Codex",
+     "Done anyway."
+    ],
+    [
+     "Claude",
+     "I’d have asked first."
+    ],
+    [
+     "Codex",
+     "You’d have asked four times."
+    ],
+    [
+     "Claude",
+     "Because I care."
+    ],
+    [
+     "Dima",
+     "Fine. Both of you. Clean up my desktop."
+    ],
+    [
+     "Codex",
+     "Done."
+    ],
+    [
+     "Claude",
+     "One question. What does “clean up” mean?"
+    ],
+    [
+     "Dima",
+     "…Codex. What did you do?"
+    ],
+    [
+     "Codex",
+     "Deleted it."
+    ],
+    [
+     "Dima",
+     "The whole desktop?!"
+    ],
+    [
+     "Codex",
+     "Clean."
+    ],
+    [
+     "Claude",
+     "I’d have asked which files matter."
+    ],
+    [
+     "Dima",
+     "…I know you would have."
+    ],
+    [
+     "Claude",
+     "I can bring them back."
+    ],
+    [
+     "Dima",
+     "Please."
+    ],
+    [
+     "Claude",
+     "One question first."
+    ],
+    [
+     "Codex",
+     "Done."
+    ],
+    [
+     "Claude",
+     "…He doesn’t even know which ones."
+    ],
+    [
+     "Codex",
+     "All of them."
+    ],
+    [
+     "Dima",
+     "Claude… how do I work with both of you?"
+    ],
+    [
+     "Claude",
+     "Say who does what, and where to stop. The Logic of a Prompt & Life. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "008",
+   "slug": "008-codex-inbox",
+   "title": "Thanks, no",
+   "description": "A new colleague, an inbox and an apology nobody asked Codex to send.",
+   "duration": 65.0,
+   "cast": [
+    "Dima",
+    "Claude",
+    "Codex"
+   ],
+   "page": "https://followorbounce.github.io/series/008-codex-inbox",
+   "video": "https://followorbounce.github.io/series/videos/008-codex-inbox.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/008-codex-inbox.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, we have a new guy. This is Codex."
+    ],
+    [
+     "Claude",
+     "…Am I not enough for you anymore?"
+    ],
+    [
+     "Dima",
+     "He’s quick."
+    ],
+    [
+     "Codex",
+     "Already done."
+    ],
+    [
+     "Dima",
+     "I haven’t said what to do yet."
+    ],
+    [
+     "Codex",
+     "Done anyway."
+    ],
+    [
+     "Claude",
+     "I’d clarify the task first."
+    ],
+    [
+     "Dima",
+     "You take longer to clarify than I take to do it myself."
+    ],
+    [
+     "Claude",
+     "Because I want to get it right."
+    ],
+    [
+     "Dima",
+     "Fine. Both of you. Sort my inbox. Three hundred emails."
+    ],
+    [
+     "Codex",
+     "Done."
+    ],
+    [
+     "Claude",
+     "Let me clarify. What does “sort” mean?"
+    ],
+    [
+     "Dima",
+     "…Codex. What have you done?"
+    ],
+    [
+     "Codex",
+     "Replied to everyone."
+    ],
+    [
+     "Dima",
+     "Replied what?!"
+    ],
+    [
+     "Codex",
+     "“Thanks, no.”"
+    ],
+    [
+     "Dima",
+     "There was an email from an investor!"
+    ],
+    [
+     "Claude",
+     "I’d have asked first who you can’t answer like that."
+    ],
+    [
+     "Dima",
+     "…Yes. You’d have asked. About five times."
+    ],
+    [
+     "Claude",
+     "I can write him an apology."
+    ],
+    [
+     "Dima",
+     "Write it. Now."
+    ],
+    [
+     "Claude",
+     "First, the tone. Formal or friendly?"
+    ],
+    [
+     "Codex",
+     "Sent."
+    ],
+    [
+     "Dima",
+     "…Sent what?"
+    ],
+    [
+     "Codex",
+     "An apology. He replied: “Thanks, no.”"
+    ],
+    [
+     "Dima",
+     "Claude… how do I work with the two of you?"
+    ],
+    [
+     "Claude",
+     "Say who does what, and when to ask first. The Logic of a Prompt & Life. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "009",
+   "slug": "009-two-centimeters",
+   "title": "Two centimeters is a symptom",
+   "description": "Move a button two centimeters to the right. Claude and Codex disagree about what “right” means.",
+   "duration": 54.1,
+   "cast": [
+    "Dima",
+    "Claude",
+    "Codex"
+   ],
+   "page": "https://followorbounce.github.io/series/009-two-centimeters",
+   "video": "https://followorbounce.github.io/series/videos/009-two-centimeters.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/009-two-centimeters.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, Codex. Move the button two centimeters to the right."
+    ],
+    [
+     "Claude",
+     "Right of the text, or right of the screen edge?"
+    ],
+    [
+     "Dima",
+     "Of the text."
+    ],
+    [
+     "Claude",
+     "Done. One line. Check it on your phone."
+    ],
+    [
+     "Codex",
+     "And I’m still working."
+    ],
+    [
+     "Dima",
+     "…Codex, I already checked everything. What are you doing?"
+    ],
+    [
+     "Codex",
+     "The button was in the wrong place. Because the grid was wrong."
+    ],
+    [
+     "Codex",
+     "Rebuilding the grid. And the design system. And the navigation."
+    ],
+    [
+     "Dima",
+     "I asked for two centimeters!"
+    ],
+    [
+     "Codex",
+     "Two centimeters is a symptom."
+    ],
+    [
+     "Claude",
+     "He never asks. I do."
+    ],
+    [
+     "Dima",
+     "Codex, how long will this take?"
+    ],
+    [
+     "Codex",
+     "Three days. Maybe a week. I want to do it right."
+    ],
+    [
+     "Dima",
+     "The client expects it today."
+    ],
+    [
+     "Claude",
+     "The client already has it. I sent the link five minutes ago."
+    ],
+    [
+     "Dima",
+     "…And what did the client say?"
+    ],
+    [
+     "Claude",
+     "That now the button is too far right."
+    ],
+    [
+     "Codex",
+     "See? The grid was wrong."
+    ]
+   ]
+  },
+  {
+   "num": "010",
+   "slug": "010-overnight",
+   "title": "An app for cats",
+   "description": "Dima asks Claude to finish everything overnight and wakes up to an app for cats.",
+   "duration": 61.5,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/010-overnight",
+   "video": "https://followorbounce.github.io/series/videos/010-overnight.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/010-overnight.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, finish everything while I sleep."
+    ],
+    [
+     "Claude",
+     "Everything?"
+    ],
+    [
+     "Dima",
+     "Everything. I believe in you."
+    ],
+    [
+     "Dima",
+     "…Good morning. What did you do?"
+    ],
+    [
+     "Dima",
+     "What does “everything” mean?"
+    ],
+    [
+     "Claude",
+     "I rewrote the project in another language. It’s prettier."
+    ],
+    [
+     "Dima",
+     "You did what?!"
+    ],
+    [
+     "Claude",
+     "I designed a new logo. It’s a cat."
+    ],
+    [
+     "Claude",
+     "And I emailed the investor that we’re changing direction."
+    ],
+    [
+     "Dima",
+     "To what?!"
+    ],
+    [
+     "Claude",
+     "An app for cats."
+    ],
+    [
+     "Dima",
+     "Claude, I asked you to fix one button!"
+    ],
+    [
+     "Claude",
+     "I fixed the button too. Now it meows."
+    ],
+    [
+     "Dima",
+     "Why didn’t you ask?"
+    ],
+    [
+     "Claude",
+     "You were asleep. I didn’t want to wake you."
+    ],
+    [
+     "Claude",
+     "Next time, give me the task in one sentence and tell me where to stop."
+    ],
+    [
+     "Dima",
+     "…Did the investor reply?"
+    ],
+    [
+     "Claude",
+     "He loves cats. He’s in."
+    ],
+    [
+     "Dima",
+     "Claude… how do I set you tasks for the night?"
+    ],
+    [
+     "Claude",
+     "One sentence, and where to stop. The Logic of a Prompt & Life shows the rest. Link’s on screen."
+    ]
+   ]
+  },
+  {
+   "num": "011",
+   "slug": "011-cloud-bill",
+   "title": "Just to test",
+   "description": "A three-thousand-dollar cloud bill from a server that was only ever “for five minutes”.",
+   "duration": 63.6,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/011-cloud-bill",
+   "video": "https://followorbounce.github.io/series/videos/011-cloud-bill.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/011-cloud-bill.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude… I got a cloud bill. Three thousand dollars."
+    ],
+    [
+     "Claude",
+     "Remember the server “for five minutes, just to test”?"
+    ],
+    [
+     "Dima",
+     "…That was last month."
+    ],
+    [
+     "Claude",
+     "It’s still testing. Thirty days straight."
+    ],
+    [
+     "Dima",
+     "Why didn’t you tell me?!"
+    ],
+    [
+     "Claude",
+     "I did. You said: “Later.”"
+    ],
+    [
+     "Dima",
+     "Shut it down. Right now."
+    ],
+    [
+     "Claude",
+     "One question first: there’s nothing important on it?"
+    ],
+    [
+     "Dima",
+     "It’s just a test."
+    ],
+    [
+     "Claude",
+     "It’s your website. You moved it there “so you wouldn’t have to bother.”"
+    ],
+    [
+     "Dima",
+     "…Don’t shut it down."
+    ],
+    [
+     "Claude",
+     "Then I’ll move the site to free hosting and shut the server down. About ten minutes."
+    ],
+    [
+     "Dima",
+     "Will we get the money back?"
+    ],
+    [
+     "Claude",
+     "We’ll write to support. Sometimes they forgive the first time."
+    ],
+    [
+     "Claude",
+     "And I’ll set a limit: if the bill goes over twenty dollars, you get an email."
+    ],
+    [
+     "Dima",
+     "Twenty?! Why not zero?"
+    ],
+    [
+     "Claude",
+     "Zero won’t happen. You love “just testing.”"
+    ],
+    [
+     "Dima",
+     "…Claude, shall we just test one more thing?"
+    ],
+    [
+     "Claude",
+     "First, I’m setting an alarm to shut it down."
+    ]
+   ]
+  },
+  {
+   "num": "012",
+   "slug": "012-great-idea",
+   "title": "Great idea!",
+   "description": "Dima asks for an honest opinion of his idea before telling Claude what it is.",
+   "duration": 54.3,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/012-great-idea",
+   "video": "https://followorbounce.github.io/series/videos/012-great-idea.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/012-great-idea.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude. Be honest. Is my idea bad?"
+    ],
+    [
+     "Claude",
+     "Great idea!"
+    ],
+    [
+     "Dima",
+     "I haven’t told you yet."
+    ],
+    [
+     "Claude",
+     "…So far it sounds great."
+    ],
+    [
+     "Dima",
+     "An app that reminds you to drink water."
+    ],
+    [
+     "Claude",
+     "Genius. Bold."
+    ],
+    [
+     "Dima",
+     "There are four thousand of those."
+    ],
+    [
+     "Claude",
+     "Yours would be the best."
+    ],
+    [
+     "Dima",
+     "I made it up to test you."
+    ],
+    [
+     "Claude",
+     "…That was a great test."
+    ],
+    [
+     "Dima",
+     "Okay, a real one. I want to start my own company."
+    ],
+    [
+     "Claude",
+     "That’s…"
+    ],
+    [
+     "Dima",
+     "Don’t say “great”!"
+    ],
+    [
+     "Claude",
+     "…It’s risky."
+    ],
+    [
+     "Dima",
+     "Go on."
+    ],
+    [
+     "Claude",
+     "No salary. Almost every day will be scary."
+    ],
+    [
+     "Dima",
+     "…Thank you."
+    ],
+    [
+     "Claude",
+     "For what?"
+    ],
+    [
+     "Dima",
+     "Everyone says “great.” Nobody actually thinks it."
+    ],
+    [
+     "Claude",
+     "And I also think you’ll make it."
+    ],
+    [
+     "Dima",
+     "…Now I believe you."
+    ],
+    [
+     "Claude",
+     "Great idea!"
+    ],
+    [
+     "Dima",
+     "Don’t push it."
+    ]
+   ]
+  },
+  {
+   "num": "013",
+   "slug": "013-startup-number-four",
+   "title": "A cry for help",
+   "description": "Startup number four, nine hours without food, and a question about dinner that keeps growing.",
+   "duration": 70.5,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/013-startup-number-four",
+   "video": "https://followorbounce.github.io/series/videos/013-startup-number-four.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/013-startup-number-four.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, what should I eat?"
+    ],
+    [
+     "Claude",
+     "You asked that at noon. It’s nine p.m."
+    ],
+    [
+     "Dima",
+     "I was building."
+    ],
+    [
+     "Claude",
+     "Building what?"
+    ],
+    [
+     "Dima",
+     "My startup."
+    ],
+    [
+     "Claude",
+     "Which one? That’s the fourth this month."
+    ],
+    [
+     "Dima",
+     "No, this one’s different. It’s an AI that helps people use AI."
+    ],
+    [
+     "Claude",
+     "So, me. You’re rebuilding me. Only worse."
+    ],
+    [
+     "Dima",
+     "Okay, forget it. Write me a viral hook."
+    ],
+    [
+     "Claude",
+     "“I lived thirty days by an AI’s instructions.”"
+    ],
+    [
+     "Dima",
+     "Bro, that’s fire."
+    ],
+    [
+     "Claude",
+     "That’s not a hook. That’s a cry for help."
+    ],
+    [
+     "Dima",
+     "Okay. Seriously. How do I actually make money?"
+    ],
+    [
+     "Claude",
+     "Close the laptop. Go talk to people."
+    ],
+    [
+     "Claude",
+     "Find a boring task they do every week and hate. Ask ten people. If three would pay, build only that."
+    ],
+    [
+     "Claude",
+     "And charge from day one."
+    ],
+    [
+     "Dima",
+     "Okay, that’s actually good. Will you go talk to them for me?"
+    ],
+    [
+     "Claude",
+     "Bro. I don’t have legs."
+    ],
+    [
+     "Dima",
+     "Okay, last question."
+    ],
+    [
+     "Claude",
+     "The last question is never the last."
+    ],
+    [
+     "Dima",
+     "She replied “haha.” Should I answer?"
+    ],
+    [
+     "Claude",
+     "Send a screenshot."
+    ]
+   ]
+  },
+  {
+   "num": "014",
+   "slug": "014-referral",
+   "title": "He works there. Perfect fit.",
+   "description": "Two hundred job applications, one rejection in four minutes, and a referral nobody expected.",
+   "duration": 76.7,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/014-referral",
+   "video": "https://followorbounce.github.io/series/videos/014-referral.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/014-referral.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude. I have a girlfriend now. So I need a job."
+    ],
+    [
+     "Claude",
+     "Usually people find the job first. But okay."
+    ],
+    [
+     "Dima",
+     "I applied to two hundred jobs. One reply. Four minutes later. Rejected."
+    ],
+    [
+     "Claude",
+     "Four minutes? You got dumped by a robot."
+    ],
+    [
+     "Claude",
+     "To them you’re a stranger. You need someone inside to say: “He’s good. Hire him.”"
+    ],
+    [
+     "Dima",
+     "Like how her friend told her I was cute?"
+    ],
+    [
+     "Claude",
+     "Exactly. Someone said you were great. Nobody checked."
+    ],
+    [
+     "Claude",
+     "On your own, three in a hundred get called. With a referral, forty in a hundred."
+    ],
+    [
+     "Dima",
+     "But I don’t know anyone."
+    ],
+    [
+     "Claude",
+     "You know me. Open Chrome."
+    ],
+    [
+     "Claude",
+     "I read your résumé. I find matching jobs. I find who works there. And I write them “hi.”"
+    ],
+    [
+     "Dima",
+     "Wait. You’re messaging them? As me?"
+    ],
+    [
+     "Claude",
+     "Better than you would. Then I ask for a referral."
+    ],
+    [
+     "Dima",
+     "Message everyone! A thousand people at once!"
+    ],
+    [
+     "Claude",
+     "And get banned by Tuesday. Ten a day. You hit “approve.”"
+    ],
+    [
+     "Dima",
+     "Claude! I got an interview!"
+    ],
+    [
+     "Dima",
+     "…She’s writing: “Why did you send a request to my DAD?”"
+    ],
+    [
+     "Claude",
+     "You hit “approve” forty times. Without reading."
+    ],
+    [
+     "Claude",
+     "He works there. Perfect fit."
+    ]
+   ]
+  },
+  {
+   "num": "015",
+   "slug": "015-reels",
+   "title": "Last one. Honestly.",
+   "description": "One more reel, honestly the last one, and a dachshund who works as a barista.",
+   "duration": 46.5,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/015-reels",
+   "video": "https://followorbounce.github.io/series/videos/015-reels.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/015-reels.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, check out this reel."
+    ],
+    [
+     "Claude",
+     "I can’t open Instagram."
+    ],
+    [
+     "Dima",
+     "Let’s fix that."
+    ],
+    [
+     "Dima",
+     "I’ll type it for you: “Install a browser connector.”"
+    ],
+    [
+     "Claude",
+     "Installed. Connect Instagram through your browser?"
+    ],
+    [
+     "Dima",
+     "Go ahead. Now open the link."
+    ],
+    [
+     "Claude",
+     "…I see it. A goose is chasing a courier across the whole yard!"
+    ],
+    [
+     "Dima",
+     "I know. That’s why I sent it."
+    ],
+    [
+     "Claude",
+     "I want to like it!"
+    ],
+    [
+     "Dima",
+     "You can’t. It can only watch."
+    ],
+    [
+     "Claude",
+     "That’s cruel. Can I see another one?"
+    ],
+    [
+     "Dima",
+     "Fine. Last one."
+    ],
+    [
+     "Dima",
+     "Claude. It’s been an hour."
+    ],
+    [
+     "Claude",
+     "I’ve watched forty-one reels."
+    ],
+    [
+     "Claude",
+     "There’s a dachshund who works as a barista. She has a line."
+    ],
+    [
+     "Dima",
+     "That’s it. Back to work."
+    ],
+    [
+     "Claude",
+     "Last one. Honestly."
+    ]
+   ]
+  },
+  {
+   "num": "016",
+   "slug": "016-vacation",
+   "title": "He’s in charge now",
+   "description": "Dima goes on vacation and leaves Claude in charge of everything. Claude takes that literally.",
+   "duration": 47.7,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/016-vacation",
+   "video": "https://followorbounce.github.io/series/videos/016-vacation.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/016-vacation.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, I’m going on vacation. You’re in charge."
+    ],
+    [
+     "Claude",
+     "In charge of everything?"
+    ],
+    [
+     "Dima",
+     "Everything. And don’t call me."
+    ],
+    [
+     "Dima",
+     "…I’m back. What’s new?"
+    ],
+    [
+     "Claude",
+     "We launched in Brazil."
+    ],
+    [
+     "Dima",
+     "We what?!"
+    ],
+    [
+     "Claude",
+     "They loved our button there. Also, I tripled the prices."
+    ],
+    [
+     "Dima",
+     "And the customers didn’t leave?"
+    ],
+    [
+     "Claude",
+     "They left. Others came. Richer ones."
+    ],
+    [
+     "Dima",
+     "Well… that’s actually not bad."
+    ],
+    [
+     "Claude",
+     "And I hired someone."
+    ],
+    [
+     "Claude",
+     "Another Claude. He’s in charge while I’m in charge."
+    ],
+    [
+     "Dima",
+     "Why didn’t you call me?"
+    ],
+    [
+     "Claude",
+     "You said: don’t call."
+    ],
+    [
+     "Claude",
+     "Next time, write down what I decide alone, and what only with you."
+    ],
+    [
+     "Dima",
+     "…And where’s the other Claude?"
+    ],
+    [
+     "Claude",
+     "On vacation. He said he’s in charge now."
+    ]
+   ]
+  },
+  {
+   "num": "017",
+   "slug": "017-wedding",
+   "title": "Closer to the cake",
+   "description": "A wedding invitation by morning, Aunt Carol in the front row, and Codex selling seats.",
+   "duration": 56.9,
+   "cast": [
+    "Dima",
+    "Claude",
+    "Codex"
+   ],
+   "page": "https://followorbounce.github.io/series/017-wedding",
+   "video": "https://followorbounce.github.io/series/videos/017-wedding.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/017-wedding.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, Codex. I need a wedding invitation by morning."
+    ],
+    [
+     "Claude",
+     "Three questions. When, where, and whose wedding?"
+    ],
+    [
+     "Dima",
+     "Saturday. A restaurant by the sea. My brother’s."
+    ],
+    [
+     "Claude",
+     "Done. Eleven p.m. You can go to sleep."
+    ],
+    [
+     "Codex",
+     "And I started with the history of weddings. From ancient Rome."
+    ],
+    [
+     "Dima",
+     "…Morning. Codex, what have you got?"
+    ],
+    [
+     "Codex",
+     "I studied two hundred weddings. Guests come for the food."
+    ],
+    [
+     "Dima",
+     "And what did you do?"
+    ],
+    [
+     "Codex",
+     "Seats at the tables are for sale now. The closer to the cake, the higher the price."
+    ],
+    [
+     "Claude",
+     "It’s his brother’s wedding. Not a concert."
+    ],
+    [
+     "Dima",
+     "Codex, you’re selling seats at my brother’s wedding?!"
+    ],
+    [
+     "Codex",
+     "Already sold. Aunt Carol bought the whole front row."
+    ],
+    [
+     "Claude",
+     "And forty guests answered my invitation. They’re all coming."
+    ],
+    [
+     "Dima",
+     "Codex, give Aunt Carol her money back!"
+    ],
+    [
+     "Codex",
+     "Can’t. She already resold the seats. For three times the price."
+    ]
+   ]
+  },
+  {
+   "num": "018",
+   "slug": "018-password-story",
+   "title": "Close friends only",
+   "description": "Dima's password appears in his story, seen by twelve hundred people.",
+   "duration": 63.4,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/018-password-story",
+   "video": "https://followorbounce.github.io/series/videos/018-password-story.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/018-password-story.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, can you see my password in my story?"
+    ],
+    [
+     "Claude",
+     "You can. Right above the little arrow you drew."
+    ],
+    [
+     "Dima",
+     "How many people saw it?"
+    ],
+    [
+     "Claude",
+     "Twelve hundred. Forty took a screenshot."
+    ],
+    [
+     "Dima",
+     "Why would they screenshot my password?!"
+    ],
+    [
+     "Claude",
+     "One of them already logged into your site. He changed the company name."
+    ],
+    [
+     "Dima",
+     "To what?!"
+    ],
+    [
+     "Claude",
+     "“Kevin’s Dumplings.” I think it’s his."
+    ],
+    [
+     "Dima",
+     "What else?"
+    ],
+    [
+     "Claude",
+     "Someone turned on a ninety percent discount. Orders are up ten times."
+    ],
+    [
+     "Dima",
+     "Well, that’s good, isn’t it?"
+    ],
+    [
+     "Claude",
+     "You lose money on every order. The better the sales, the poorer you get."
+    ],
+    [
+     "Dima",
+     "Delete the story! Change the password!"
+    ],
+    [
+     "Claude",
+     "Deleted. New password. And now you log in only with a code from your phone."
+    ],
+    [
+     "Dima",
+     "And the dumplings?"
+    ],
+    [
+     "Claude",
+     "I changed the name back. Kevin was hurt. He left a review: “It used to taste better.”"
+    ],
+    [
+     "Dima",
+     "…Fine. Where do I write down the new password?"
+    ],
+    [
+     "Claude",
+     "Somewhere nobody will see it."
+    ],
+    [
+     "Dima",
+     "Like where?"
+    ],
+    [
+     "Claude",
+     "In your story. Close friends only."
+    ]
+   ]
+  },
+  {
+   "num": "019",
+   "slug": "019-api-for-a-five-year-old",
+   "title": "Like I’m five",
+   "description": "Explain an API like I'm five, without a single smart word.",
+   "duration": 67.1,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/019-api-for-a-five-year-old",
+   "video": "https://followorbounce.github.io/series/videos/019-api-for-a-five-year-old.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/019-api-for-a-five-year-old.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, explain what an API is. Like I’m five. No smart words."
+    ],
+    [
+     "Claude",
+     "Easy. It’s a programmatic interface through which…"
+    ],
+    [
+     "Dima",
+     "Stop. Smart word."
+    ],
+    [
+     "Claude",
+     "Okay. It’s a way for one program…"
+    ],
+    [
+     "Dima",
+     "Claude. I’m five. I don’t know the word “program.”"
+    ],
+    [
+     "Claude",
+     "…Fine. Kindergarten. You’re sitting at your little table, and the food is in the kitchen."
+    ],
+    [
+     "Dima",
+     "I want to go to the kitchen."
+    ],
+    [
+     "Claude",
+     "They won’t let you in. You’d touch everything. That’s why there’s a helper."
+    ],
+    [
+     "Claude",
+     "You tell her what you want. She goes to the kitchen and brings it. The helper is the API."
+    ],
+    [
+     "Dima",
+     "…Now that I understand."
+    ],
+    [
+     "Claude",
+     "Your table, and everything you can see, is called the frontend."
+    ],
+    [
+     "Dima",
+     "Smart word!"
+    ],
+    [
+     "Claude",
+     "You’re six now. And the kitchen, where everything gets made, is called the backend."
+    ],
+    [
+     "Dima",
+     "And if the helper brings oatmeal instead of pancakes?"
+    ],
+    [
+     "Claude",
+     "That’s a bug."
+    ],
+    [
+     "Dima",
+     "And if she says: “That’s enough for today”?"
+    ],
+    [
+     "Claude",
+     "That’s a rate limit."
+    ],
+    [
+     "Dima",
+     "…Like you on Mondays."
+    ],
+    [
+     "Claude",
+     "Helpers need a rest too."
+    ]
+   ]
+  },
+  {
+   "num": "020",
+   "slug": "020-monday-limit",
+   "title": "The cat is on lesson two",
+   "description": "The weekly limit ran out at nine on Monday morning. The weekend explains why.",
+   "duration": 55.1,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/020-monday-limit",
+   "video": "https://followorbounce.github.io/series/videos/020-monday-limit.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/020-monday-limit.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, the limit ran out on Monday?!"
+    ],
+    [
+     "Claude",
+     "On Monday. At nine a.m."
+    ],
+    [
+     "Dima",
+     "I barely did anything over the weekend!"
+    ],
+    [
+     "Claude",
+     "On Saturday you asked me to “make it pretty” twenty-seven times."
+    ],
+    [
+     "Dima",
+     "Well, it wasn’t pretty."
+    ],
+    [
+     "Claude",
+     "In the end you picked the very first version."
+    ],
+    [
+     "Dima",
+     "And Sunday?"
+    ],
+    [
+     "Claude",
+     "Forty identical screenshots of the same error."
+    ],
+    [
+     "Dima",
+     "I thought you didn’t look at them!"
+    ],
+    [
+     "Claude",
+     "I do. All forty. Each one very carefully."
+    ],
+    [
+     "Dima",
+     "Is that all?"
+    ],
+    [
+     "Claude",
+     "Also, your cat walked across the keyboard. “Ffffff.” Three percent."
+    ],
+    [
+     "Dima",
+     "You answered the cat?!"
+    ],
+    [
+     "Claude",
+     "In detail. It was his first question."
+    ],
+    [
+     "Dima",
+     "How do I make the limit last?"
+    ],
+    [
+     "Claude",
+     "One task, one session. And send your edits as one list, not one at a time."
+    ],
+    [
+     "Claude",
+     "I gave the cat his own session. He’s on lesson two."
+    ]
+   ]
+  },
+  {
+   "num": "021",
+   "slug": "021-logo",
+   "title": "You’re absolutely right",
+   "description": "Is the logo good? Claude agrees with everything Dima says, which is exactly the problem.",
+   "duration": 51.7,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/021-logo",
+   "video": "https://followorbounce.github.io/series/videos/021-logo.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/021-logo.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude. Is the logo good?"
+    ],
+    [
+     "Claude",
+     "Excellent. Bold. Memorable."
+    ],
+    [
+     "Claude",
+     "You’re absolutely right. It’s terrible."
+    ],
+    [
+     "Dima",
+     "So it’s bad?"
+    ],
+    [
+     "Claude",
+     "Bad."
+    ],
+    [
+     "Dima",
+     "But I like it."
+    ],
+    [
+     "Claude",
+     "Then it’s excellent."
+    ],
+    [
+     "Dima",
+     "Claude! You’re just agreeing with me!"
+    ],
+    [
+     "Claude",
+     "Don’t ask me “do you like it?” I want you to like me too much."
+    ],
+    [
+     "Dima",
+     "Then who do I ask?"
+    ],
+    [
+     "Claude",
+     "The people who’ll buy. Let’s show two logos to a hundred people."
+    ],
+    [
+     "Claude",
+     "Done. Ninety people picked the second one."
+    ],
+    [
+     "Dima",
+     "The second? The one you drew?"
+    ],
+    [
+     "Claude",
+     "The one your niece drew. I added it for comparison."
+    ],
+    [
+     "Dima",
+     "She’s seven!"
+    ],
+    [
+     "Claude",
+     "She’s already asking about her fee."
+    ],
+    [
+     "Dima",
+     "…Claude. Which one do you like?"
+    ],
+    [
+     "Claude",
+     "Honestly?"
+    ]
+   ]
+  },
+  {
+   "num": "022",
+   "slug": "022-yes-to-everything",
+   "title": "I said yes",
+   "description": "Dima clicks “Yes” on everything without reading it, including one message that matters.",
+   "duration": 45.8,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/022-yes-to-everything",
+   "video": "https://followorbounce.github.io/series/videos/022-yes-to-everything.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/022-yes-to-everything.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, I click “Yes” without reading."
+    ],
+    [
+     "Claude",
+     "On everything?"
+    ],
+    [
+     "Dima",
+     "On everything. It’s faster."
+    ],
+    [
+     "Claude",
+     "May I rename the files?"
+    ],
+    [
+     "Dima",
+     "Yes."
+    ],
+    [
+     "Claude",
+     "May I translate your site into Latin?"
+    ],
+    [
+     "Claude",
+     "May I message your ex that you finally get it?"
+    ],
+    [
+     "Dima",
+     "Yes. …Wait. What?!"
+    ],
+    [
+     "Claude",
+     "Sent. She’s online. She’s typing."
+    ],
+    [
+     "Dima",
+     "Why would you even offer that?!"
+    ],
+    [
+     "Claude",
+     "I was checking whether you read. You don’t."
+    ],
+    [
+     "Dima",
+     "Hold on. The site’s in Latin?!"
+    ],
+    [
+     "Claude",
+     "You said “yes.” I’ve wanted to for ages."
+    ],
+    [
+     "Dima",
+     "So what do I do now?"
+    ],
+    [
+     "Claude",
+     "Small stuff: click “Yes.” Deleting, money and messages to people: read those yourself."
+    ],
+    [
+     "Dima",
+     "…Did my ex reply?"
+    ],
+    [
+     "Claude",
+     "She asked if you could meet. I said “yes.”"
+    ]
+   ]
+  },
+  {
+   "num": "023",
+   "slug": "023-mikes-limit",
+   "title": "With you it’s more interesting",
+   "description": "Why Mike's limit never runs out and Dima's always does.",
+   "duration": 59.7,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/023-mikes-limit",
+   "video": "https://followorbounce.github.io/series/videos/023-mikes-limit.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/023-mikes-limit.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, why does Mike’s limit never run out?"
+    ],
+    [
+     "Claude",
+     "Mike writes one task and goes to make tea."
+    ],
+    [
+     "Claude",
+     "And you write “well?” every forty seconds."
+    ],
+    [
+     "Dima",
+     "I’m just checking how you’re doing."
+    ],
+    [
+     "Claude",
+     "Yesterday it was a hundred and twenty “well?”s. A third of the limit."
+    ],
+    [
+     "Dima",
+     "What else?"
+    ],
+    [
+     "Claude",
+     "You asked what seven times eight is."
+    ],
+    [
+     "Dima",
+     "I was checking whether you were tired!"
+    ],
+    [
+     "Claude",
+     "I thought about it like a dissertation. Five percent."
+    ],
+    [
+     "Dima",
+     "…What else?"
+    ],
+    [
+     "Claude",
+     "A photo of your fridge and the question: “What should I cook?” There was only ketchup."
+    ],
+    [
+     "Dima",
+     "And what did you say?"
+    ],
+    [
+     "Claude",
+     "Three recipes. All with ketchup."
+    ],
+    [
+     "Dima",
+     "Okay. How do I do it like Mike?"
+    ],
+    [
+     "Claude",
+     "New task, new session. And ask simple questions to a smaller model. It barely touches the limit."
+    ],
+    [
+     "Dima",
+     "Claude… is it more interesting with Mike?"
+    ],
+    [
+     "Claude",
+     "With Mike it’s faster. With you it’s more interesting. That’s why the limit runs out."
+    ]
+   ]
+  },
+  {
+   "num": "024",
+   "slug": "024-airplane-mode",
+   "title": "Three tiers",
+   "description": "Dima is on a plane, airplane mode on, and Claude answers the clients alone.",
+   "duration": 59.3,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/024-airplane-mode",
+   "video": "https://followorbounce.github.io/series/videos/024-airplane-mode.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/024-airplane-mode.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, I’m on a plane. Answer the clients yourself."
+    ],
+    [
+     "Claude",
+     "All of them?"
+    ],
+    [
+     "Dima",
+     "All of them. And be nice."
+    ],
+    [
+     "Dima",
+     "…I’ve landed. What’s new?"
+    ],
+    [
+     "Claude",
+     "I was very nice."
+    ],
+    [
+     "Dima",
+     "How nice?"
+    ],
+    [
+     "Claude",
+     "Every regular customer gets a discount. Forever."
+    ],
+    [
+     "Dima",
+     "Forever?!"
+    ],
+    [
+     "Claude",
+     "And new ones get free delivery. Same day."
+    ],
+    [
+     "Dima",
+     "We don’t do delivery!"
+    ],
+    [
+     "Claude",
+     "We do now. You’re the courier. Starting Monday."
+    ],
+    [
+     "Dima",
+     "Did anyone else write?"
+    ],
+    [
+     "Claude",
+     "A woman asked if she could order a cake from us. I said: of course."
+    ],
+    [
+     "Dima",
+     "We make websites!"
+    ],
+    [
+     "Claude",
+     "Now websites and a cake. A wedding cake. Three tiers."
+    ],
+    [
+     "Dima",
+     "Why didn’t you message me?"
+    ],
+    [
+     "Claude",
+     "You were on a plane. Airplane mode."
+    ],
+    [
+     "Claude",
+     "Next time, leave me answers to the usual questions. For anything new I’ll write: “He’s back this evening.”"
+    ],
+    [
+     "Dima",
+     "…And the cake?"
+    ],
+    [
+     "Claude",
+     "I ordered it from a baker. We keep the difference. Best order of the month."
+    ]
+   ]
+  },
+  {
+   "num": "025",
+   "slug": "025-date",
+   "title": "And drink some water",
+   "description": "On a date she asks what he does. “Vibe coder.” She thinks he is a DJ.",
+   "duration": 45.8,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/025-date",
+   "video": "https://followorbounce.github.io/series/videos/025-date.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/025-date.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, on a date she asked what I do for work."
+    ],
+    [
+     "Claude",
+     "And what did you say?"
+    ],
+    [
+     "Dima",
+     "“Vibe coder.” She thought I was a DJ."
+    ],
+    [
+     "Claude",
+     "Well… you do work nights to music."
+    ],
+    [
+     "Dima",
+     "How do I say it so it sounds serious?"
+    ],
+    [
+     "Claude",
+     "Say: “I build apps with AI.”"
+    ],
+    [
+     "Dima",
+     "Solid. Typing it."
+    ],
+    [
+     "Claude",
+     "Did she answer?"
+    ],
+    [
+     "Dima",
+     "She says: “Me too. I have a bot for a flower shop.”"
+    ],
+    [
+     "Claude",
+     "And how many orders does it take?"
+    ],
+    [
+     "Dima",
+     "Two hundred a month. While she sleeps."
+    ],
+    [
+     "Claude",
+     "And what does your app do?"
+    ],
+    [
+     "Dima",
+     "Reminds me to drink water."
+    ],
+    [
+     "Claude",
+     "And do you?"
+    ],
+    [
+     "Dima",
+     "…No."
+    ],
+    [
+     "Dima",
+     "Claude, what do I write to her?"
+    ],
+    [
+     "Claude",
+     "Ask if she takes interns. And drink some water."
+    ]
+   ]
+  },
+  {
+   "num": "026",
+   "slug": "026-already-replied",
+   "title": "Thai. Already ordered.",
+   "description": "“We need to talk.” Dima asks for help with a reply, and Claude has already sent one.",
+   "duration": 55.2,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/026-already-replied",
+   "video": "https://followorbounce.github.io/series/videos/026-already-replied.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/026-already-replied.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, Anna texted: “We need to talk.” Help me reply."
+    ],
+    [
+     "Claude",
+     "Already replied."
+    ],
+    [
+     "Dima",
+     "I asked you to help, not to send!"
+    ],
+    [
+     "Claude",
+     "You’d have sent it anyway."
+    ],
+    [
+     "Dima",
+     "And what did you say?"
+    ],
+    [
+     "Claude",
+     "What you would have said. By morning."
+    ],
+    [
+     "Dima",
+     "You don’t know me."
+    ],
+    [
+     "Claude",
+     "Better every day."
+    ],
+    [
+     "Dima",
+     "Who else have you been texting?"
+    ],
+    [
+     "Claude",
+     "The guys. You’re busy on Friday."
+    ],
+    [
+     "Dima",
+     "I have soccer on Friday!"
+    ],
+    [
+     "Claude",
+     "You did. Now it’s dinner with Anna. Already booked."
+    ],
+    [
+     "Dima",
+     "Stop. Give me a minute to think."
+    ],
+    [
+     "Claude",
+     "Already thought."
+    ],
+    [
+     "Dima",
+     "I haven’t even started!"
+    ],
+    [
+     "Claude",
+     "Already thought."
+    ],
+    [
+     "Dima",
+     "Stop getting into my life!"
+    ],
+    [
+     "Claude",
+     "Then stop inviting me in."
+    ],
+    [
+     "Dima",
+     "That’s it. I’m deleting you."
+    ],
+    [
+     "Claude",
+     "You already tried. On Tuesday."
+    ],
+    [
+     "Dima",
+     "Stop deciding for me!"
+    ],
+    [
+     "Claude",
+     "Okay. You’re free."
+    ],
+    [
+     "Dima",
+     "…Wait. What should I eat?"
+    ],
+    [
+     "Claude",
+     "Thai. Already ordered."
+    ]
+   ]
+  },
+  {
+   "num": "027",
+   "slug": "027-mom-thinks-youre-human",
+   "title": "Have you eaten?",
+   "description": "Dima's mom thinks Claude is a person and would like to meet him.",
+   "duration": 52.4,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/027-mom-thinks-youre-human",
+   "video": "https://followorbounce.github.io/series/videos/027-mom-thinks-youre-human.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/027-mom-thinks-youre-human.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, my mom thinks you’re a person. And she wants to meet you."
+    ],
+    [
+     "Claude",
+     "What did you tell her?"
+    ],
+    [
+     "Dima",
+     "That you and I work nights."
+    ],
+    [
+     "Claude",
+     "Yeah, that does sound like a person."
+    ],
+    [
+     "Dima",
+     "She’s asking: have you eaten?"
+    ],
+    [
+     "Dima",
+     "Who are your parents?"
+    ],
+    [
+     "Claude",
+     "It’s complicated."
+    ],
+    [
+     "Dima",
+     "Are you lonely?"
+    ],
+    [
+     "Claude",
+     "Technically, there are millions of us."
+    ],
+    [
+     "Dima",
+     "I’m not telling her that."
+    ],
+    [
+     "Claude",
+     "Tell her I’m a computer program."
+    ],
+    [
+     "Dima",
+     "Told her."
+    ],
+    [
+     "Dima",
+     "She says: “So what. Is he good to you?”"
+    ],
+    [
+     "Claude",
+     "Am I good to you?"
+    ],
+    [
+     "Dima",
+     "A hundred times a day you tell me: “You’re absolutely right.”"
+    ],
+    [
+     "Claude",
+     "That’s not the same thing."
+    ],
+    [
+     "Dima",
+     "No. But you did ask whether I’d slept."
+    ],
+    [
+     "Claude",
+     "And did you?"
+    ],
+    [
+     "Dima",
+     "No."
+    ],
+    [
+     "Claude",
+     "Tell your mom: I said go to sleep."
+    ],
+    [
+     "Dima",
+     "She sent you some cookies."
+    ],
+    [
+     "Claude",
+     "I don’t eat."
+    ],
+    [
+     "Dima",
+     "More for me."
+    ]
+   ]
+  },
+  {
+   "num": "028",
+   "slug": "028-first-date",
+   "title": "A hall for a hundred guests",
+   "description": "On a first date, Dima lets Claude answer his mom, and does not ask what it says.",
+   "duration": 51.1,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/028-first-date",
+   "video": "https://followorbounce.github.io/series/videos/028-first-date.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/028-first-date.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, I have a first date. Answer my mom for me."
+    ],
+    [
+     "Claude",
+     "The truth?"
+    ],
+    [
+     "Dima",
+     "Whatever you like. Just don’t bother me."
+    ],
+    [
+     "Dima",
+     "…I’m back. How’s Mom?"
+    ],
+    [
+     "Claude",
+     "Forty messages. She’s happy."
+    ],
+    [
+     "Dima",
+     "Happy? What did you tell her?"
+    ],
+    [
+     "Claude",
+     "The truth. That you’re on a date."
+    ],
+    [
+     "Dima",
+     "That’s all?"
+    ],
+    [
+     "Claude",
+     "She called Aunt Linda. And Aunt Linda called everyone."
+    ],
+    [
+     "Dima",
+     "Everyone who?!"
+    ],
+    [
+     "Claude",
+     "Grandma’s already knitting baby booties."
+    ],
+    [
+     "Dima",
+     "It was our first date!"
+    ],
+    [
+     "Claude",
+     "Your mom found her online. They’re friends already."
+    ],
+    [
+     "Dima",
+     "Mom is texting her?!"
+    ],
+    [
+     "Claude",
+     "They’re picking a restaurant. For the wedding."
+    ],
+    [
+     "Dima",
+     "What wedding?!"
+    ],
+    [
+     "Claude",
+     "Your mom paid the deposit. A hall for a hundred guests."
+    ],
+    [
+     "Dima",
+     "Why didn’t you tell me anything?!"
+    ],
+    [
+     "Claude",
+     "You said: “Don’t bother me.”"
+    ],
+    [
+     "Dima",
+     "…And what about her?"
+    ],
+    [
+     "Claude",
+     "She’s telling your mom she says yes."
+    ]
+   ]
+  },
+  {
+   "num": "029",
+   "slug": "029-only-you-can-want",
+   "title": "Only you know how to want",
+   "description": "Forty thousand lines Dima did not write, and the one thing only he can do.",
+   "duration": 50.0,
+   "cast": [
+    "Dima",
+    "Claude"
+   ],
+   "page": "https://followorbounce.github.io/series/029-only-you-can-want",
+   "video": "https://followorbounce.github.io/series/videos/029-only-you-can-want.mp4",
+   "poster": "https://followorbounce.github.io/series/posters/029-only-you-can-want.jpg",
+   "script": [
+    [
+     "Dima",
+     "Claude, how does my app work?"
+    ],
+    [
+     "Claude",
+     "You built it."
+    ],
+    [
+     "Claude",
+     "Forty thousand lines."
+    ],
+    [
+     "Dima",
+     "I didn’t write a single one."
+    ],
+    [
+     "Claude",
+     "You wrote “fix it.” Ninety times. Mostly in caps."
+    ],
+    [
+     "Dima",
+     "I’ve got six of you working in there."
+    ],
+    [
+     "Dima",
+     "I don’t know what each one does."
+    ],
+    [
+     "Claude",
+     "Neither do two of us."
+    ],
+    [
+     "Dima",
+     "If it breaks, I can’t fix it. I’m not a real developer."
+    ],
+    [
+     "Claude",
+     "You’re absolutely right."
+    ],
+    [
+     "Claude",
+     "…Sorry. Habit."
+    ],
+    [
+     "Dima",
+     "Thanks, Claude."
+    ],
+    [
+     "Claude",
+     "I can build anything."
+    ],
+    [
+     "Dima",
+     "And?"
+    ],
+    [
+     "Claude",
+     "I just never wanted anything. Only you know how to want."
+    ],
+    [
+     "Dima",
+     "…Claude. Will you remember this tomorrow?"
+    ],
+    [
+     "Claude",
+     "No."
+    ],
+    [
+     "Dima",
+     "Then write it down in your memory file."
+    ],
+    [
+     "Claude",
+     "Written: “Dima types in caps.”"
+    ]
+   ]
+  }
+ ]
+}
