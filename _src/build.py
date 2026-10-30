@@ -239,10 +239,13 @@ def main():
 
 
 def keep_network(old, new):
-    """Keep what engine/og_cards.py added to a page (share-image tags, network block) across rebuilds."""
+    """Keep what engine/og_cards.py added to a page (share-image tags, network block, analytics tag) across rebuilds."""
     tags = re.findall(r'<meta (?:property="og:image[^"]*"|name="twitter:(?:card|image)") content="[^"]*">\n', old)
     if tags:
         new = new.replace('<meta name="theme-color"', ''.join(tags) + '<meta name="theme-color"', 1)
+    ga = re.search(r'<!-- fob-ga -->[\s\S]*?<!-- /fob-ga -->\n?', old)          # the Google Analytics tag (og_cards.py / engine/ga.py)
+    if ga:
+        new = new.replace('</head>', ga.group(0) + '</head>', 1)
     net = re.search(r'<!-- fob-network -->[\s\S]*?<!-- /fob-network -->\n?', old)
     if net:
         new = new.replace('</body>', net.group(0) + '</body>', 1)
